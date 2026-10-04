@@ -1,0 +1,22 @@
+{
+  "game": "Minna no Golf 4",
+  "platform": "PS2",
+  "serial": "SCPS-15059",
+  "revision": "Japan v2.00",
+  "version": "v0.9.0-beta",
+  "source": {
+    "size": 3070394368,
+    "sha256": "1516b69c868557520e7c8bc2f73ee44cd868a56245a0dcae02fbea820c48b32f",
+    "md5": "ba2ef5557bd2686585972f8461754804"
+  },
+  "target": {
+    "size": 3215353856,
+    "sha256": "6050caa85a4c03a3c05e43c597651e2d5338c48812ee33ff13ab0cbce3564213"
+  },
+  "patch": {
+    "name": "Minna_no_Golf_4_PS2_KO_v0.9.0-beta.xdelta",
+    "size": 93555473,
+    "sha256": "8c7881464d49db9fd6facdedc7e7f94d5d97570860143ad79e4a244376f6dd0a"
+  },
+  "roundtrip_verified": true
+}

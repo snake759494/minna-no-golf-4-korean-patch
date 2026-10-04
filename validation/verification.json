@@ -1,0 +1,1543 @@
+{
+  "status": "정적 검증 통과, 부팅·메인 메뉴·코스 선택·최종 확인 화면 실행 확인",
+  "source_sha256": "1516b69c868557520e7c8bc2f73ee44cd868a56245a0dcae02fbea820c48b32f",
+  "target_sha256": "6050caa85a4c03a3c05e43c597651e2d5338c48812ee33ff13ab0cbce3564213",
+  "translated_strings": 1138,
+  "compact_strings": 245,
+  "hangul_glyphs": 675,
+  "compact_glyphs": 188,
+  "translated_textures": 630,
+  "translated_regions": 3950,
+  "font": "NanumSquareNeo-cBd.ttf / NanumSquareNeo-eHv.ttf / 이름 입력 NanumSquareNeo-bRg.ttf / SeoulHangangEB",
+  "changed_files": [
+    "/ZZBIN/MENU.BIN;1",
+    "/ZZBIN/SYSTEM.BIN;1",
+    "/ZZBIN/GAME.BIN;1",
+    "/CMN/GFFONT.XB;1",
+    "/CRS/SSN0/HOL0103.XB;1",
+    "/CRS/SSN0/HOL0105.XB;1",
+    "/CRS/SSN0/HOL0107.XB;1",
+    "/CRS/SSN0/HOL0108.XB;1",
+    "/CRS/SSN0/HOL0109.XB;1",
+    "/CRS/SSN0/HOL0111.XB;1",
+    "/CRS/SSN0/HOL0112.XB;1",
+    "/CRS/SSN0/HOL0113.XB;1",
+    "/CRS/SSN0/HOL0116.XB;1",
+    "/CRS/SSN0/HOL0201.XB;1",
+    "/CRS/SSN0/HOL0202.XB;1",
+    "/CRS/SSN0/HOL0203.XB;1",
+    "/CRS/SSN0/HOL0204.XB;1",
+    "/CRS/SSN0/HOL0206.XB;1",
+    "/CRS/SSN0/HOL0208.XB;1",
+    "/CRS/SSN0/HOL0209.XB;1",
+    "/CRS/SSN0/HOL0306.XB;1",
+    "/CRS/SSN0/HOL0313.XB;1",
+    "/CRS/SSN0/HOL0417.XB;1",
+    "/CRS/SSN0/HOL0418.XB;1",
+    "/CRS/SSN0/HOL0502.XB;1",
+    "/CRS/SSN0/HOL0505.XB;1",
+    "/CRS/SSN0/HOL0508.XB;1",
+    "/CRS/SSN0/HOL0510.XB;1",
+    "/CRS/SSN0/HOL0511.XB;1",
+    "/CRS/SSN0/HOL0512.XB;1",
+    "/CRS/SSN0/HOL0514.XB;1",
+    "/CRS/SSN0/HOL0515.XB;1",
+    "/CRS/SSN0/HOL0516.XB;1",
+    "/CRS/SSN0/HOL0517.XB;1",
+    "/CRS/SSN0/HOL0601.XB;1",
+    "/CRS/SSN0/HOL0602.XB;1",
+    "/CRS/SSN0/HOL0603.XB;1",
+    "/CRS/SSN0/HOL0606.XB;1",
+    "/CRS/SSN0/HOL0609.XB;1",
+    "/CRS/SSN0/HOL0612.XB;1",
+    "/CRS/SSN0/HOL0617.XB;1",
+    "/CRS/SSN0/HOL0713.XB;1",
+    "/CRS/SSN0/HOL0714.XB;1",
+    "/CRS/SSN0/HOL0716.XB;1",
+    "/CRS/SSN0/HOL0717.XB;1",
+    "/CRS/SSN0/HOL0718.XB;1",
+    "/CRS/SSN0/HOL0801.XB;1",
+    "/CRS/SSN0/HOL0802.XB;1",
+    "/CRS/SSN0/HOL0803.XB;1",
+    "/CRS/SSN0/HOL0804.XB;1",
+    "/CRS/SSN0/HOL0805.XB;1",
+    "/CRS/SSN0/HOL0806.XB;1",
+    "/CRS/SSN0/HOL0807.XB;1",
+    "/CRS/SSN0/HOL0808.XB;1",
+    "/CRS/SSN0/HOL0809.XB;1",
+    "/CRS/SSN0/HOL0811.XB;1",
+    "/CRS/SSN0/HOL0812.XB;1",
+    "/CRS/SSN0/HOL0813.XB;1",
+    "/CRS/SSN0/HOL0814.XB;1",
+    "/CRS/SSN0/HOL0815.XB;1",
+    "/CRS/SSN0/HOL0816.XB;1",
+    "/CRS/SSN0/HOL0817.XB;1",
+    "/CRS/SSN0/HOL0901.XB;1",
+    "/CRS/SSN0/HOL0903.XB;1",
+    "/CRS/SSN0/HOL0905.XB;1",
+    "/CRS/SSN0/HOL0906.XB;1",
+    "/CRS/SSN0/HOL0907.XB;1",
+    "/CRS/SSN0/HOL0908.XB;1",
+    "/CRS/SSN0/HOL0910.XB;1",
+    "/CRS/SSN0/HOL0911.XB;1",
+    "/CRS/SSN0/HOL0913.XB;1",
+    "/CRS/SSN0/HOL0914.XB;1",
+    "/CRS/SSN0/HOL0915.XB;1",
+    "/CRS/SSN0/HOL0916.XB;1",
+    "/CRS/SSN0/HOL1101.XB;1",
+    "/CRS/SSN0/HOL1103.XB;1",
+    "/CRS/SSN0/HOL1104.XB;1",
+    "/CRS/SSN0/HOL1105.XB;1",
+    "/CRS/SSN0/HOL1106.XB;1",
+    "/CRS/SSN0/HOL1108.XB;1",
+    "/CRS/SSN0/HOL1109.XB;1",
+    "/CRS/SSN0/HOL1110.XB;1",
+    "/CRS/SSN0/HOL1111.XB;1",
+    "/CRS/SSN0/HOL1112.XB;1",
+    "/CRS/SSN0/HOL1113.XB;1",
+    "/CRS/SSN0/HOL1114.XB;1",
+    "/CRS/SSN0/HOL1115.XB;1",
+    "/CRS/SSN0/HOL1116.XB;1",
+    "/CRS/SSN0/HOL1117.XB;1",
+    "/CRS/SSN0/HOL1118.XB;1",
+    "/CRS/SSN0/HOL1201.XB;1",
+    "/CRS/SSN0/HOL1202.XB;1",
+    "/CRS/SSN0/HOL1203.XB;1",
+    "/CRS/SSN0/HOL1204.XB;1",
+    "/CRS/SSN0/HOL1205.XB;1",
+    "/CRS/SSN0/HOL1206.XB;1",
+    "/CRS/SSN0/HOL1207.XB;1",
+    "/CRS/SSN0/HOL1208.XB;1",
+    "/CRS/SSN0/HOL1209.XB;1",
+    "/CRS/SSN0/HOL1210.XB;1",
+    "/CRS/SSN0/HOL1211.XB;1",
+    "/CRS/SSN0/HOL1213.XB;1",
+    "/CRS/SSN0/HOL1214.XB;1",
+    "/CRS/SSN0/HOL1215.XB;1",
+    "/CRS/SSN0/HOL1216.XB;1",
+    "/CRS/SSN0/HOL1217.XB;1",
+    "/CRS/SSN0/HOL1218.XB;1",
+    "/CRS/SSN0/HOL1300.XB;1",
+    "/CRS/SSN0/HOL1301.XB;1",
+    "/CRS/SSN0/HOL1302.XB;1",
+    "/CRS/SSN0/HOL1309.XB;1",
+    "/CRS/SSN0/HOL1407.XB;1",
+    "/CRS/SSN0/HOL1501.XB;1",
+    "/CRS/SSN0/HOL1508.XB;1",
+    "/CRS/SSN0/HOL1509.XB;1",
+    "/CRS/SSN1/HOL0101.XB;1",
+    "/CRS/SSN1/HOL0102.XB;1",
+    "/CRS/SSN1/HOL0103.XB;1",
+    "/CRS/SSN1/HOL0104.XB;1",
+    "/CRS/SSN1/HOL0105.XB;1",
+    "/CRS/SSN1/HOL0106.XB;1",
+    "/CRS/SSN1/HOL0107.XB;1",
+    "/CRS/SSN1/HOL0108.XB;1",
+    "/CRS/SSN1/HOL0109.XB;1",
+    "/CRS/SSN1/HOL0110.XB;1",
+    "/CRS/SSN1/HOL0111.XB;1",
+    "/CRS/SSN1/HOL0112.XB;1",
+    "/CRS/SSN1/HOL0113.XB;1",
+    "/CRS/SSN1/HOL0114.XB;1",
+    "/CRS/SSN1/HOL0115.XB;1",
+    "/CRS/SSN1/HOL0116.XB;1",
+    "/CRS/SSN1/HOL0117.XB;1",
+    "/CRS/SSN1/HOL0118.XB;1",
+    "/CRS/SSN1/HOL0201.XB;1",
+    "/CRS/SSN1/HOL0202.XB;1",
+    "/CRS/SSN1/HOL0203.XB;1",
+    "/CRS/SSN1/HOL0204.XB;1",
+    "/CRS/SSN1/HOL0206.XB;1",
+    "/CRS/SSN1/HOL0208.XB;1",
+    "/CRS/SSN1/HOL0209.XB;1",
+    "/CRS/SSN1/HOL0306.XB;1",
+    "/CRS/SSN1/HOL0313.XB;1",
+    "/CRS/SSN1/HOL0502.XB;1",
+    "/CRS/SSN1/HOL0505.XB;1",
+    "/CRS/SSN1/HOL0508.XB;1",
+    "/CRS/SSN1/HOL0510.XB;1",
+    "/CRS/SSN1/HOL0511.XB;1",
+    "/CRS/SSN1/HOL0512.XB;1",
+    "/CRS/SSN1/HOL0514.XB;1",
+    "/CRS/SSN1/HOL0515.XB;1",
+    "/CRS/SSN1/HOL0516.XB;1",
+    "/CRS/SSN1/HOL0517.XB;1",
+    "/CRS/SSN1/HOL0601.XB;1",
+    "/CRS/SSN1/HOL0602.XB;1",
+    "/CRS/SSN1/HOL0603.XB;1",
+    "/CRS/SSN1/HOL0606.XB;1",
+    "/CRS/SSN1/HOL0609.XB;1",
+    "/CRS/SSN1/HOL0612.XB;1",
+    "/CRS/SSN1/HOL0617.XB;1",
+    "/CRS/SSN1/HOL0713.XB;1",
+    "/CRS/SSN1/HOL0714.XB;1",
+    "/CRS/SSN1/HOL0716.XB;1",
+    "/CRS/SSN1/HOL0717.XB;1",
+    "/CRS/SSN1/HOL0718.XB;1",
+    "/CRS/SSN1/HOL0801.XB;1",
+    "/CRS/SSN1/HOL0802.XB;1",
+    "/CRS/SSN1/HOL0803.XB;1",
+    "/CRS/SSN1/HOL0804.XB;1",
+    "/CRS/SSN1/HOL0805.XB;1",
+    "/CRS/SSN1/HOL0806.XB;1",
+    "/CRS/SSN1/HOL0807.XB;1",
+    "/CRS/SSN1/HOL0808.XB;1",
+    "/CRS/SSN1/HOL0809.XB;1",
+    "/CRS/SSN1/HOL0811.XB;1",
+    "/CRS/SSN1/HOL0812.XB;1",
+    "/CRS/SSN1/HOL0813.XB;1",
+    "/CRS/SSN1/HOL0814.XB;1",
+    "/CRS/SSN1/HOL0815.XB;1",
+    "/CRS/SSN1/HOL0816.XB;1",
+    "/CRS/SSN1/HOL0817.XB;1",
+    "/CRS/SSN1/HOL0901.XB;1",
+    "/CRS/SSN1/HOL0903.XB;1",
+    "/CRS/SSN1/HOL0905.XB;1",
+    "/CRS/SSN1/HOL0906.XB;1",
+    "/CRS/SSN1/HOL0907.XB;1",
+    "/CRS/SSN1/HOL0908.XB;1",
+    "/CRS/SSN1/HOL0910.XB;1",
+    "/CRS/SSN1/HOL0911.XB;1",
+    "/CRS/SSN1/HOL0913.XB;1",
+    "/CRS/SSN1/HOL0914.XB;1",
+    "/CRS/SSN1/HOL0915.XB;1",
+    "/CRS/SSN1/HOL0916.XB;1",
+    "/CRS/SSN1/HOL1217.XB;1",
+    "/CRS/SSN1/HOL1300.XB;1",
+    "/CRS/SSN1/HOL1301.XB;1",
+    "/CRS/SSN1/HOL1302.XB;1",
+    "/CRS/SSN1/HOL1303.XB;1",
+    "/CRS/SSN1/HOL1306.XB;1",
+    "/CRS/SSN1/HOL1309.XB;1",
+    "/CRS/SSN2/HOL0101.XB;1",
+    "/CRS/SSN2/HOL0102.XB;1",
+    "/CRS/SSN2/HOL0103.XB;1",
+    "/CRS/SSN2/HOL0104.XB;1",
+    "/CRS/SSN2/HOL0105.XB;1",
+    "/CRS/SSN2/HOL0106.XB;1",
+    "/CRS/SSN2/HOL0107.XB;1",
+    "/CRS/SSN2/HOL0108.XB;1",
+    "/CRS/SSN2/HOL0109.XB;1",
+    "/CRS/SSN2/HOL0110.XB;1",
+    "/CRS/SSN2/HOL0111.XB;1",
+    "/CRS/SSN2/HOL0112.XB;1",
+    "/CRS/SSN2/HOL0113.XB;1",
+    "/CRS/SSN2/HOL0114.XB;1",
+    "/CRS/SSN2/HOL0115.XB;1",
+    "/CRS/SSN2/HOL0116.XB;1",
+    "/CRS/SSN2/HOL0117.XB;1",
+    "/CRS/SSN2/HOL0118.XB;1",
+    "/CRS/SSN2/HOL0201.XB;1",
+    "/CRS/SSN2/HOL0202.XB;1",
+    "/CRS/SSN2/HOL0203.XB;1",
+    "/CRS/SSN2/HOL0204.XB;1",
+    "/CRS/SSN2/HOL0206.XB;1",
+    "/CRS/SSN2/HOL0208.XB;1",
+    "/CRS/SSN2/HOL0209.XB;1",
+    "/CRS/SSN2/HOL0306.XB;1",
+    "/CRS/SSN2/HOL0309.XB;1",
+    "/CRS/SSN2/HOL0313.XB;1",
+    "/CRS/SSN2/HOL0315.XB;1",
+    "/CRS/SSN2/HOL0601.XB;1",
+    "/CRS/SSN2/HOL0602.XB;1",
+    "/CRS/SSN2/HOL0603.XB;1",
+    "/CRS/SSN2/HOL0606.XB;1",
+    "/CRS/SSN2/HOL0609.XB;1",
+    "/CRS/SSN2/HOL0612.XB;1",
+    "/CRS/SSN2/HOL0617.XB;1",
+    "/CRS/SSN2/HOL0713.XB;1",
+    "/CRS/SSN2/HOL0714.XB;1",
+    "/CRS/SSN2/HOL0716.XB;1",
+    "/CRS/SSN2/HOL0717.XB;1",
+    "/CRS/SSN2/HOL0718.XB;1",
+    "/CRS/SSN2/HOL0801.XB;1",
+    "/CRS/SSN2/HOL0802.XB;1",
+    "/CRS/SSN2/HOL0803.XB;1",
+    "/CRS/SSN2/HOL0804.XB;1",
+    "/CRS/SSN2/HOL0805.XB;1",
+    "/CRS/SSN2/HOL0806.XB;1",
+    "/CRS/SSN2/HOL0807.XB;1",
+    "/CRS/SSN2/HOL0808.XB;1",
+    "/CRS/SSN2/HOL0809.XB;1",
+    "/CRS/SSN2/HOL0811.XB;1",
+    "/CRS/SSN2/HOL0812.XB;1",
+    "/CRS/SSN2/HOL0813.XB;1",
+    "/CRS/SSN2/HOL0814.XB;1",
+    "/CRS/SSN2/HOL0815.XB;1",
+    "/CRS/SSN2/HOL0816.XB;1",
+    "/CRS/SSN2/HOL0817.XB;1",
+    "/CRS/SSN2/HOL0910.XB;1",
+    "/CRS/SSN2/HOL0914.XB;1",
+    "/CRS/SSN2/HOL1217.XB;1",
+    "/CRS/SSN2/HOL1300.XB;1",
+    "/CRS/SSN2/HOL1301.XB;1",
+    "/CRS/SSN2/HOL1302.XB;1",
+    "/CRS/SSN2/HOL1309.XB;1",
+    "/CRS/SSN3/HOL0103.XB;1",
+    "/CRS/SSN3/HOL0105.XB;1",
+    "/CRS/SSN3/HOL0107.XB;1",
+    "/CRS/SSN3/HOL0108.XB;1",
+    "/CRS/SSN3/HOL0112.XB;1",
+    "/CRS/SSN3/HOL0113.XB;1",
+    "/CRS/SSN3/HOL0116.XB;1",
+    "/CRS/SSN3/HOL0201.XB;1",
+    "/CRS/SSN3/HOL0202.XB;1",
+    "/CRS/SSN3/HOL0203.XB;1",
+    "/CRS/SSN3/HOL0204.XB;1",
+    "/CRS/SSN3/HOL0206.XB;1",
+    "/CRS/SSN3/HOL0208.XB;1",
+    "/CRS/SSN3/HOL0209.XB;1",
+    "/CRS/SSN3/HOL0306.XB;1",
+    "/CRS/SSN3/HOL0309.XB;1",
+    "/CRS/SSN3/HOL0313.XB;1",
+    "/CRS/SSN3/HOL0315.XB;1",
+    "/CRS/SSN3/HOL0417.XB;1",
+    "/CRS/SSN3/HOL0418.XB;1",
+    "/CRS/SSN3/HOL0601.XB;1",
+    "/CRS/SSN3/HOL0606.XB;1",
+    "/CRS/SSN3/HOL0609.XB;1",
+    "/CRS/SSN3/HOL0612.XB;1",
+    "/CRS/SSN3/HOL0617.XB;1",
+    "/CRS/SSN3/HOL0713.XB;1",
+    "/CRS/SSN3/HOL0714.XB;1",
+    "/CRS/SSN3/HOL0716.XB;1",
+    "/CRS/SSN3/HOL0717.XB;1",
+    "/CRS/SSN3/HOL0718.XB;1",
+    "/CRS/SSN3/HOL0801.XB;1",
+    "/CRS/SSN3/HOL0802.XB;1",
+    "/CRS/SSN3/HOL0803.XB;1",
+    "/CRS/SSN3/HOL0804.XB;1",
+    "/CRS/SSN3/HOL0805.XB;1",
+    "/CRS/SSN3/HOL0806.XB;1",
+    "/CRS/SSN3/HOL0807.XB;1",
+    "/CRS/SSN3/HOL0808.XB;1",
+    "/CRS/SSN3/HOL0809.XB;1",
+    "/CRS/SSN3/HOL0811.XB;1",
+    "/CRS/SSN3/HOL0812.XB;1",
+    "/CRS/SSN3/HOL0813.XB;1",
+    "/CRS/SSN3/HOL0814.XB;1",
+    "/CRS/SSN3/HOL0815.XB;1",
+    "/CRS/SSN3/HOL0816.XB;1",
+    "/CRS/SSN3/HOL0817.XB;1",
+    "/CRS/SSN3/HOL0910.XB;1",
+    "/CRS/SSN3/HOL0914.XB;1",
+    "/CRS/SSN3/HOL1217.XB;1",
+    "/CRS/SSN3/HOL1300.XB;1",
+    "/CRS/SSN3/HOL1301.XB;1",
+    "/CRS/SSN3/HOL1302.XB;1",
+    "/CRS/SSN3/HOL1309.XB;1",
+    "/GAME/GMMC.XB;1",
+    "/GAME/GMMTRN.XB;1",
+    "/GAME/PVM.XB;1",
+    "/GAME/PVMNT000.XB;1",
+    "/GAME/PVMNT001.XB;1",
+    "/GAME/PVMNT002.XB;1",
+    "/GAME/PVMNT003.XB;1",
+    "/GAME/PVMNT004.XB;1",
+    "/GAME/PVMNT005.XB;1",
+    "/GAME/PVMNT006.XB;1",
+    "/GAME/PVMNT007.XB;1",
+    "/GAME/PVMNT008.XB;1",
+    "/GAME/PVMNT009.XB;1",
+    "/GAME/PVMNT010.XB;1",
+    "/GAME/PVMNT011.XB;1",
+    "/GAME/PVMNT012.XB;1",
+    "/GAME/PVMNT013.XB;1",
+    "/GAME/PVMNT014.XB;1",
+    "/GAME/PVMNT015.XB;1",
+    "/GAME/PVMNT016.XB;1",
+    "/GAME/PVMNT017.XB;1",
+    "/GAME/PVMNT018.XB;1",
+    "/GAME/PVMNT019.XB;1",
+    "/GAME/PVMNT020.XB;1",
+    "/GAME/PVMNT021.XB;1",
+    "/GAME/PVMNT022.XB;1",
+    "/GAME/PVMNT023.XB;1",
+    "/GAME/PVMNT024.XB;1",
+    "/GAME/PVMNT025.XB;1",
+    "/GAME/PVMNT026.XB;1",
+    "/GAME/PVMNT027.XB;1",
+    "/GAME/PVMNT028.XB;1",
+    "/GAME/PVMNT029.XB;1",
+    "/GAME/PVMNT030.XB;1",
+    "/GAME/PVMNT031.XB;1",
+    "/GAME/PVMNT032.XB;1",
+    "/GAME/PVMNT033.XB;1",
+    "/GAME/PVMNT034.XB;1",
+    "/GAME/PVMNT035.XB;1",
+    "/GAME/PVMNT036.XB;1",
+    "/GAME/PVMNT037.XB;1",
+    "/GAME/PVMNT038.XB;1",
+    "/GAME/PVMNT039.XB;1",
+    "/GAME/PVMNT040.XB;1",
+    "/GAME/PVMNT041.XB;1",
+    "/GAME/PVMNT042.XB;1",
+    "/GAME/PVMNT043.XB;1",
+    "/GAME/PVMNT044.XB;1",
+    "/GAME/PVMNT045.XB;1",
+    "/GAME/PVMNT046.XB;1",
+    "/GAME/PVMNT047.XB;1",
+    "/GAME/PVMNT048.XB;1",
+    "/GAME/PVMNT049.XB;1",
+    "/GAME/PVMNT050.XB;1",
+    "/GAME/PVMNT051.XB;1",
+    "/GAME/PVMNT052.XB;1",
+    "/GAME/PVMNT053.XB;1",
+    "/GAME/PVMNT054.XB;1",
+    "/GAME/PVMNT055.XB;1",
+    "/GAME/PVMNT056.XB;1",
+    "/GAME/PVMNT057.XB;1",
+    "/GAME/PVMNT058.XB;1",
+    "/GAME/PVMNT059.XB;1",
+    "/GAME/PVMNT060.XB;1",
+    "/GAME/PVMNT061.XB;1",
+    "/GAME/PVMNT062.XB;1",
+    "/GAME/PVMNT063.XB;1",
+    "/GAME/PVMNT064.XB;1",
+    "/GAME/PVMNT065.XB;1",
+    "/GAME/PVMNT066.XB;1",
+    "/GAME/PVMNT067.XB;1",
+    "/GAME/PVMNT068.XB;1",
+    "/GAME/PVMNT069.XB;1",
+    "/GAME/PVMNT070.XB;1",
+    "/GAME/PVMNT071.XB;1",
+    "/GAME/PVMNT072.XB;1",
+    "/GAME/PVMNT073.XB;1",
+    "/GAME/PVMNT074.XB;1",
+    "/GAME/PVMNT075.XB;1",
+    "/GAME/PVMNT076.XB;1",
+    "/GAME/PVMNT077.XB;1",
+    "/GAME/PVMNT078.XB;1",
+    "/GAME/PVMNT079.XB;1",
+    "/GAME/PVMNT080.XB;1",
+    "/GAME/PVMNT081.XB;1",
+    "/GAME/PVMNT082.XB;1",
+    "/GAME/PVMNT083.XB;1",
+    "/GAME/PVMNT084.XB;1",
+    "/GAME/PVMNT085.XB;1",
+    "/GAME/PVMNT086.XB;1",
+    "/GAME/PVMNT087.XB;1",
+    "/GAME/PVMNT088.XB;1",
+    "/GAME/PVMNT089.XB;1",
+    "/GAME/PVMNT090.XB;1",
+    "/GAME/PVMNT091.XB;1",
+    "/GAME/PVMNT092.XB;1",
+    "/GAME/PVMNT093.XB;1",
+    "/GAME/PVMNT094.XB;1",
+    "/GAME/PVMNT095.XB;1",
+    "/GAME/PVMNT096.XB;1",
+    "/GAME/PVMNT097.XB;1",
+    "/GAME/PVMNT098.XB;1",
+    "/GAME/PVMNT099.XB;1",
+    "/GAME/PVMNT100.XB;1",
+    "/GAME/PVMNT101.XB;1",
+    "/GAME/PVMNT102.XB;1",
+    "/GAME/PVMNT103.XB;1",
+    "/GAME/PVMNT104.XB;1",
+    "/GAME/PVMNT105.XB;1",
+    "/GAME/PVMNT106.XB;1",
+    "/GAME/PVMNT107.XB;1",
+    "/GAME/PVMNT108.XB;1",
+    "/GAME/PVMNT109.XB;1",
+    "/GAME/PVMNT110.XB;1",
+    "/GAME/PVMNT111.XB;1",
+    "/GAME/PVMNT112.XB;1",
+    "/GAME/PVMNT113.XB;1",
+    "/GAME/PVMNT114.XB;1",
+    "/GAME/PVMNT115.XB;1",
+    "/GAME/PVMNT116.XB;1",
+    "/GAME/PVMNT117.XB;1",
+    "/GAME/PVMNT118.XB;1",
+    "/GAME/PVMNT119.XB;1",
+    "/GAME/PVMNT120.XB;1",
+    "/GAME/PVMNT121.XB;1",
+    "/GAME/PVMNT122.XB;1",
+    "/GAME/PVMNT123.XB;1",
+    "/GAME/PVMNT124.XB;1",
+    "/GAME/PVMNT125.XB;1",
+    "/GAME/PVMNT126.XB;1",
+    "/GAME/PVMNT127.XB;1",
+    "/INP/IMS.XB;1",
+    "/INP/IMSMCH.XB;1",
+    "/INP/SMPLY00.XB;1",
+    "/INP/SMPLY00U.XB;1",
+    "/INP/SMPLY01.XB;1",
+    "/INP/SMPLY01U.XB;1",
+    "/INP/SMPLY02.XB;1",
+    "/INP/SMPLY02U.XB;1",
+    "/INP/SMPLY03.XB;1",
+    "/INP/SMPLY03U.XB;1",
+    "/INP/SMPLY04.XB;1",
+    "/INP/SMPLY04U.XB;1",
+    "/INP/SMPLY05.XB;1",
+    "/INP/SMPLY05U.XB;1",
+    "/INP/SMPLY06.XB;1",
+    "/INP/SMPLY06U.XB;1",
+    "/INP/SMPLY07.XB;1",
+    "/INP/SMPLY07U.XB;1",
+    "/INP/SMPLY08.XB;1",
+    "/INP/SMPLY08U.XB;1",
+    "/INP/SMPLY09.XB;1",
+    "/INP/SMPLY09U.XB;1",
+    "/INP/SMPLY10.XB;1",
+    "/INP/SMPLY10U.XB;1",
+    "/INP/SMPLY12.XB;1",
+    "/INP/SMPLY12U.XB;1",
+    "/INP/SMPLY13.XB;1",
+    "/INP/SMPLY13U.XB;1",
+    "/INP/SMPLY14.XB;1",
+    "/INP/SMPLY14U.XB;1",
+    "/INP/SMPLY15.XB;1",
+    "/INP/SMPLY15U.XB;1",
+    "/INP/SMPLY16.XB;1",
+    "/INP/SMPLY16U.XB;1",
+    "/INP/SMPLY17.XB;1",
+    "/INP/SMPLY17U.XB;1",
+    "/INP/SMPLY18.XB;1",
+    "/INP/SMPLY18U.XB;1",
+    "/INP/SMPLY19.XB;1",
+    "/INP/SMPLY19U.XB;1",
+    "/INP/SMPLY20.XB;1",
+    "/INP/SMPLY20U.XB;1",
+    "/INP/SMPLY21.XB;1",
+    "/INP/SMPLY21U.XB;1",
+    "/INP/SMPLY22.XB;1",
+    "/INP/SMPLY22U.XB;1",
+    "/INP/SMPLY23.XB;1",
+    "/INP/SMPLY23U.XB;1",
+    "/KC/KC02C07.XB;1",
+    "/MENU/M_CHAR/COL4/MC02.XB;1",
+    "/MENU/M_CHAR/GUIDE/GC00.XB;1",
+    "/MENU/M_MENU1/MENU.XB;1",
+    "/MENU/M_MENU1/MENU05.XB;1",
+    "/MENU/M_MENU1/MENU06.XB;1",
+    "/MENU/M_MENU1/MENU0C.XB;1",
+    "/MENU/M_MENU1/MENU11.XB;1",
+    "/MENU/M_MENU1/MENU12.XB;1",
+    "/MENU/M_MENU1/MENU13.XB;1",
+    "/MENU/M_MENU1/MENU14.XB;1",
+    "/MENU/M_MENU1/MENU19.XB;1",
+    "/MENU/M_MENU1/MENU19_1.XB;1",
+    "/MENU/M_MENU1/MENU19_2.XB;1",
+    "/MENU/M_MENU1/MENU21.XB;1",
+    "/MENU/M_MENU2/MENU00.XB;1",
+    "/MENU/M_MENU2/MENU02.XB;1",
+    "/MENU/M_MENU2/MENU22.XB;1",
+    "/MENU/M_WALL/WALL100.XB;1",
+    "/MENU/M_WALL/WALL101.XB;1",
+    "/MENU/M_WALL/WALL102.XB;1",
+    "/MENU/M_WALL/WALL104.XB;1",
+    "/MENU/M_WALL/WALL137.XB;1",
+    "/MENU/M_WALL/WALL138.XB;1",
+    "/MENU/M_WALL/WALL139.XB;1",
+    "/MENU/M_WALL/WALL140.XB;1",
+    "/MENU/M_WALL/WALL141.XB;1",
+    "/MENU/M_WALL/WALL142.XB;1",
+    "/MENU/M_WALL/WALL143.XB;1",
+    "/MENU/M_WALL/WALL144.XB;1",
+    "/MENU/M_WALL/WALL145.XB;1",
+    "/MENU/M_WALL/WALL146.XB;1",
+    "/MENU/M_WALL/WALL147.XB;1",
+    "/MENU/M_WALL/WALL148.XB;1",
+    "/MENU/M_WALL/WALL149.XB;1",
+    "/MENU/M_WALL/WALL150.XB;1",
+    "/MENU/M_WALL/WALL151.XB;1",
+    "/MENU/M_WALL/WALL152.XB;1",
+    "/MENU/M_WALL/WALL153.XB;1",
+    "/MENU/M_WALL/WALL154.XB;1",
+    "/MENU/M_WALL/WALL155.XB;1",
+    "/MENU/M_WALL/WALL157.XB;1",
+    "/MENU/M_WALL/WALL160.XB;1",
+    "/MENU/M_WALL/WALL161.XB;1",
+    "/MENU/M_WALL/WALL162.XB;1",
+    "/MENU/M_WALL/WALL163.XB;1",
+    "/MENU/M_WALL/WALL164.XB;1",
+    "/MENU/M_WALL/WALL165.XB;1",
+    "/MENU/M_WALL/WALL166.XB;1",
+    "/MENU/M_WALL/WALL167.XB;1",
+    "/MENU/M_WALL/WALL168.XB;1",
+    "/MENU/M_WALL/WALL169.XB;1",
+    "/MENU/M_WALL/WALL170.XB;1",
+    "/MENU/M_WALL/WALL171.XB;1",
+    "/MENU/M_WALL/WALL172.XB;1",
+    "/MENU/M_WALL/WALL173.XB;1",
+    "/MENU/M_WALL/WALL174.XB;1",
+    "/MENU/M_WALL/WALL175.XB;1",
+    "/MENU/M_WALL/WALL176.XB;1",
+    "/MENU/M_WALL/WALL177.XB;1",
+    "/MENU/M_WALL/WALL178.XB;1",
+    "/MENU/M_WALL/WALL179.XB;1",
+    "/MENU/M_WALL/WALL180.XB;1",
+    "/MENU/M_WALL/WALL181.XB;1",
+    "/MENU/M_WALL/WALL182.XB;1",
+    "/MENU/M_WALL/WALL183.XB;1",
+    "/MENU/M_WALL/WALL184.XB;1",
+    "/MENU/M_WALL/WALL185.XB;1",
+    "/MENU/M_WALL/WALL186.XB;1",
+    "/MENU/M_WALL/WALL187.XB;1",
+    "/MENU/M_WALL/WALL189.XB;1",
+    "/MENU/M_WALL/WALL190.XB;1",
+    "/MENU/M_WALL/WALL191.XB;1",
+    "/MENU/M_WALL/WALL192.XB;1",
+    "/MENU/M_WALL/WALL193.XB;1",
+    "/MENU/M_WALL/WALL194.XB;1",
+    "/MENU/M_WALL/WALL195.XB;1",
+    "/MENU/M_WALL/WALL196.XB;1",
+    "/MENU/M_WALL/WALL197.XB;1",
+    "/MENU/M_WALL/WALL201.XB;1",
+    "/MENU/M_WALL/WALL202.XB;1",
+    "/MENU/M_WALL/WALL203.XB;1",
+    "/MENU/M_WALL/WALL204.XB;1",
+    "/MENU/M_WALL/WALL205.XB;1",
+    "/MENU/M_WALL/WALL206.XB;1",
+    "/MENU/M_WALL/WALL207.XB;1",
+    "/MENU/M_WALL/WALL208.XB;1",
+    "/MENU/M_WALL/WALL209.XB;1",
+    "/MENU/M_WALL/WALL210.XB;1",
+    "/MENU/M_WALL/WALL211.XB;1",
+    "/MENU/M_WALL/WALL212.XB;1",
+    "/MENU/M_WALL/WALL213.XB;1",
+    "/MENU/M_WALL/WALL214.XB;1",
+    "/MENU/M_WALL/WALL215.XB;1",
+    "/MENU/M_WALL/WALL216.XB;1",
+    "/MENU/M_WALL/WALL217.XB;1",
+    "/MENU/M_WALL/WALL218.XB;1",
+    "/MENU/M_WALL/WALL219.XB;1",
+    "/MENU/M_WALL/WALL220.XB;1",
+    "/MENU/M_WALL/WALL221.XB;1",
+    "/MENU/M_WALL/WALL222.XB;1",
+    "/MENU/M_WALL/WALL223.XB;1",
+    "/MENU/M_WALL/WALL224.XB;1",
+    "/MENU/M_WALL/WALL225.XB;1",
+    "/MENU/M_WALL/WALL226.XB;1",
+    "/MENU/M_WALL/WALL227.XB;1",
+    "/MENU/M_WALL/WALL228.XB;1",
+    "/MENU/M_WALL/WALL229.XB;1",
+    "/MENU/M_WALL/WALL230.XB;1",
+    "/MENU/M_WALL/WALL231.XB;1",
+    "/MENU/M_WALL/WALL232.XB;1",
+    "/MENU/M_WALL/WALL233.XB;1",
+    "/MENU/M_WALL/WALL234.XB;1",
+    "/MENU/M_WALL/WALL235.XB;1",
+    "/MENU/M_WALL/WALL236.XB;1",
+    "/MENU/M_WALL/WALL237.XB;1",
+    "/MENU/M_WALL/WALL238.XB;1",
+    "/MENU/M_WALL/WALL239.XB;1",
+    "/MENU/M_WALL/WALL240.XB;1",
+    "/MENU/M_WALL/WALL241.XB;1",
+    "/MENU/M_WALL/WALL242.XB;1",
+    "/MENU/M_WALL/WALL243.XB;1",
+    "/MENU/M_WALL/WALL244.XB;1",
+    "/MENU/M_WALL/WALL245.XB;1",
+    "/MENU/M_WALL/WALL246.XB;1",
+    "/MENU/M_WALL/WALL247.XB;1",
+    "/MENU/M_WALL/WALL248.XB;1",
+    "/MENU/M_WALL/WALL249.XB;1",
+    "/MENU/M_WALL/WALL250.XB;1",
+    "/MENU/M_WALL/WALL251.XB;1",
+    "/MENU/M_WALL/WALL252.XB;1",
+    "/MENU/M_WALL/WALL253.XB;1",
+    "/MENU/M_WALL/WALL254.XB;1",
+    "/MENU/M_WALL/WALL255.XB;1",
+    "/MENU/OMENU00.XB;1",
+    "/MENU/OMENU01.XB;1",
+    "/MENU/RSCARD.XB;1",
+    "/MENU/SCARD.XB;1",
+    "/MENU/SCARD00.XB;1",
+    "/MENU/SCARD01.XB;1",
+    "/MENU/SCARD10.XB;1",
+    "/MENU/SCARD11.XB;1",
+    "/MENU/SCARD12.XB;1",
+    "/MENU/SCARD13.XB;1",
+    "/MENU/SCARD20.XB;1",
+    "/MENU/SCARD21.XB;1",
+    "/MENU/SC_COM.XB;1",
+    "/MENU/SC_NOR.XB;1",
+    "/MENU/SC_RANK.XB;1",
+    "/MENU/SC_TRAI.XB;1",
+    "/MENU/SKBD.XB;1",
+    "/MENU2/COURSE.XB;1",
+    "/MENU2/COURSE2.XB;1",
+    "/MENU2/GOVER.XB;1",
+    "/MENU2/MAINMEN2.XB;1",
+    "/MENU2/MAINMENU.XB;1",
+    "/MENU2/NTINFO.XB;1",
+    "/PC/PC02/PC0207.XB;1",
+    "/PC/PC03/PC030001.XB;1",
+    "/PC/PC03/PC030004.XB;1",
+    "/PC/PC03/PC030101.XB;1",
+    "/PC/PC03/PC030104.XB;1",
+    "/PC/PC03/PC030201.XB;1",
+    "/PC/PC03/PC030204.XB;1",
+    "/PC/PC03/PC030301.XB;1",
+    "/PC/PC03/PC030304.XB;1",
+    "/PC/PC07/PC070002.XB;1",
+    "/PC/PC07/PC070102.XB;1",
+    "/PC/PC07/PC070202.XB;1",
+    "/PC/PC07/PC070302.XB;1",
+    "/PC/PC12/PC120005.XB;1",
+    "/PC/PC12/PC120105.XB;1",
+    "/PC/PC12/PC120205.XB;1",
+    "/PC/PC12/PC120305.XB;1",
+    "/PC/PC22/PC220003.XB;1",
+    "/PC/PC22/PC220103.XB;1",
+    "/PC/PC22/PC220203.XB;1",
+    "/PC/PC22/PC220303.XB;1",
+    "/RESULT/BANNER/GET.XB;1",
+    "/RESULT/BANNER/RANK_00.XB;1",
+    "/RESULT/BANNER/RANK_01.XB;1",
+    "/RESULT/BANNER/RANK_02.XB;1",
+    "/RESULT/BANNER/RANK_03.XB;1",
+    "/RESULT/BANNER/RANK_04.XB;1",
+    "/RESULT/BANNER/RANK_05.XB;1",
+    "/RESULT/BANNER/RANK_06.XB;1",
+    "/RESULT/BANNER/RANK_07.XB;1",
+    "/RESULT/BANNER/RANK_08.XB;1",
+    "/RESULT/BANNER/RANK_09.XB;1",
+    "/RESULT/COMMON.XB;1",
+    "/RESULT/ITEM/003.XB;1",
+    "/RESULT/ITEM/004.XB;1",
+    "/RESULT/ITEM/005.XB;1",
+    "/RESULT/ITEM/006.XB;1",
+    "/RESULT/ITEM/007.XB;1",
+    "/RESULT/ITEM/008.XB;1",
+    "/RESULT/ITEM/009.XB;1",
+    "/RESULT/ITEM/010.XB;1",
+    "/RESULT/ITEM/011.XB;1",
+    "/RESULT/ITEM/012.XB;1",
+    "/RESULT/ITEM/013.XB;1",
+    "/RESULT/ITEM/014.XB;1",
+    "/RESULT/ITEM/015.XB;1",
+    "/RESULT/ITEM/016.XB;1",
+    "/RESULT/ITEM/017.XB;1",
+    "/RESULT/ITEM/019.XB;1",
+    "/RESULT/ITEM/020.XB;1",
+    "/RESULT/ITEM/021.XB;1",
+    "/RESULT/ITEM/022.XB;1",
+    "/RESULT/ITEM/023.XB;1",
+    "/RESULT/ITEM/024.XB;1",
+    "/RESULT/ITEM/025.XB;1",
+    "/RESULT/ITEM/037.XB;1",
+    "/RESULT/ITEM/040.XB;1",
+    "/RESULT/ITEM/043.XB;1",
+    "/RESULT/ITEM/045.XB;1",
+    "/RESULT/ITEM/046.XB;1",
+    "/RESULT/ITEM/047.XB;1",
+    "/RESULT/ITEM/048.XB;1",
+    "/RESULT/ITEM/049.XB;1",
+    "/RESULT/ITEM/050.XB;1",
+    "/RESULT/ITEM/051.XB;1",
+    "/RESULT/ITEM/052.XB;1",
+    "/RESULT/ITEM/063.XB;1",
+    "/RESULT/ITEM/069.XB;1",
+    "/RESULT/ITEM/075.XB;1",
+    "/RESULT/ITEM/076.XB;1",
+    "/RESULT/ITEM/077.XB;1",
+    "/RESULT/ITEM/078.XB;1",
+    "/RESULT/ITEM/079.XB;1",
+    "/RESULT/ITEM/080.XB;1",
+    "/RESULT/ITEM/081.XB;1",
+    "/RESULT/ITEM/082.XB;1",
+    "/RESULT/ITEM/083.XB;1",
+    "/RESULT/ITEM/084.XB;1",
+    "/RESULT/ITEM/085.XB;1",
+    "/RESULT/ITEM/086.XB;1",
+    "/RESULT/ITEM/087.XB;1",
+    "/RESULT/ITEM/088.XB;1",
+    "/RESULT/ITEM/089.XB;1",
+    "/RESULT/ITEM/090.XB;1",
+    "/RESULT/ITEM/091.XB;1",
+    "/RESULT/ITEM/092.XB;1",
+    "/RESULT/ITEM/093.XB;1",
+    "/RESULT/ITEM/094.XB;1",
+    "/RESULT/ITEM/095.XB;1",
+    "/RESULT/ITEM/096.XB;1",
+    "/RESULT/ITEM/097.XB;1",
+    "/RESULT/ITEM/098.XB;1",
+    "/RESULT/ITEM/099.XB;1",
+    "/RESULT/ITEM/100.XB;1",
+    "/RESULT/ITEM/106.XB;1",
+    "/RESULT/ITEM/107.XB;1",
+    "/RESULT/ITEM/108.XB;1",
+    "/RESULT/ITEM/111.XB;1",
+    "/RESULT/PC02/COL07.XB;1",
+    "/RESULT/PC03/COL00.XB;1",
+    "/RESULT/PC03/COL01.XB;1",
+    "/RESULT/PC03/COL02.XB;1",
+    "/RESULT/PC03/COL03.XB;1",
+    "/RESULT/PC03/COL04.XB;1",
+    "/RESULT/PC03/COL05.XB;1",
+    "/RESULT/PC03/COL06.XB;1",
+    "/RESULT/PC03/COL07.XB;1",
+    "/RESULT/STATUS.XB;1"
+  ],
+  "relocations": {
+    "/CMN/GFFONT.XB;1": {
+      "lba": 1499216,
+      "size": 677092
+    },
+    "/CRS/SSN0/HOL0103.XB;1": {
+      "lba": 1499547,
+      "size": 737812
+    },
+    "/CRS/SSN0/HOL0105.XB;1": {
+      "lba": 1499908,
+      "size": 861654
+    },
+    "/CRS/SSN0/HOL0108.XB;1": {
+      "lba": 1500329,
+      "size": 818990
+    },
+    "/CRS/SSN0/HOL0109.XB;1": {
+      "lba": 1500729,
+      "size": 866900
+    },
+    "/CRS/SSN0/HOL0111.XB;1": {
+      "lba": 1501153,
+      "size": 852008
+    },
+    "/CRS/SSN0/HOL0112.XB;1": {
+      "lba": 1501570,
+      "size": 767604
+    },
+    "/CRS/SSN0/HOL0113.XB;1": {
+      "lba": 1501945,
+      "size": 734254
+    },
+    "/CRS/SSN0/HOL0116.XB;1": {
+      "lba": 1502304,
+      "size": 775984
+    },
+    "/CRS/SSN0/HOL0208.XB;1": {
+      "lba": 1502683,
+      "size": 614866
+    },
+    "/CRS/SSN0/HOL0306.XB;1": {
+      "lba": 1502984,
+      "size": 718380
+    },
+    "/CRS/SSN0/HOL0313.XB;1": {
+      "lba": 1503335,
+      "size": 613772
+    },
+    "/CRS/SSN0/HOL0417.XB;1": {
+      "lba": 1503635,
+      "size": 711334
+    },
+    "/CRS/SSN0/HOL0418.XB;1": {
+      "lba": 1503983,
+      "size": 796200
+    },
+    "/CRS/SSN0/HOL0716.XB;1": {
+      "lba": 1504372,
+      "size": 1074640
+    },
+    "/CRS/SSN0/HOL0717.XB;1": {
+      "lba": 1504897,
+      "size": 1015704
+    },
+    "/CRS/SSN0/HOL0718.XB;1": {
+      "lba": 1505393,
+      "size": 1033908
+    },
+    "/CRS/SSN0/HOL0801.XB;1": {
+      "lba": 1505898,
+      "size": 1195148
+    },
+    "/CRS/SSN0/HOL0802.XB;1": {
+      "lba": 1506482,
+      "size": 911156
+    },
+    "/CRS/SSN0/HOL0803.XB;1": {
+      "lba": 1506927,
+      "size": 1076408
+    },
+    "/CRS/SSN0/HOL0804.XB;1": {
+      "lba": 1507453,
+      "size": 1114476
+    },
+    "/CRS/SSN0/HOL0806.XB;1": {
+      "lba": 1507998,
+      "size": 1032464
+    },
+    "/CRS/SSN0/HOL0809.XB;1": {
+      "lba": 1508503,
+      "size": 1139636
+    },
+    "/CRS/SSN0/HOL0812.XB;1": {
+      "lba": 1509060,
+      "size": 1067816
+    },
+    "/CRS/SSN0/HOL0813.XB;1": {
+      "lba": 1509582,
+      "size": 1059540
+    },
+    "/CRS/SSN0/HOL0815.XB;1": {
+      "lba": 1510100,
+      "size": 1246444
+    },
+    "/CRS/SSN0/HOL0817.XB;1": {
+      "lba": 1510709,
+      "size": 951846
+    },
+    "/CRS/SSN0/HOL0901.XB;1": {
+      "lba": 1511174,
+      "size": 962636
+    },
+    "/CRS/SSN0/HOL0903.XB;1": {
+      "lba": 1511645,
+      "size": 719614
+    },
+    "/CRS/SSN0/HOL0905.XB;1": {
+      "lba": 1511997,
+      "size": 844652
+    },
+    "/CRS/SSN0/HOL0906.XB;1": {
+      "lba": 1512410,
+      "size": 688872
+    },
+    "/CRS/SSN0/HOL0907.XB;1": {
+      "lba": 1512747,
+      "size": 797464
+    },
+    "/CRS/SSN0/HOL0908.XB;1": {
+      "lba": 1513137,
+      "size": 815176
+    },
+    "/CRS/SSN0/HOL0911.XB;1": {
+      "lba": 1513536,
+      "size": 709796
+    },
+    "/CRS/SSN0/HOL0913.XB;1": {
+      "lba": 1513883,
+      "size": 731812
+    },
+    "/CRS/SSN0/HOL0915.XB;1": {
+      "lba": 1514241,
+      "size": 719828
+    },
+    "/CRS/SSN0/HOL0916.XB;1": {
+      "lba": 1514593,
+      "size": 660810
+    },
+    "/CRS/SSN0/HOL1101.XB;1": {
+      "lba": 1514916,
+      "size": 776642
+    },
+    "/CRS/SSN0/HOL1103.XB;1": {
+      "lba": 1515296,
+      "size": 825174
+    },
+    "/CRS/SSN0/HOL1104.XB;1": {
+      "lba": 1515699,
+      "size": 750138
+    },
+    "/CRS/SSN0/HOL1105.XB;1": {
+      "lba": 1516066,
+      "size": 824798
+    },
+    "/CRS/SSN0/HOL1106.XB;1": {
+      "lba": 1516469,
+      "size": 775394
+    },
+    "/CRS/SSN0/HOL1108.XB;1": {
+      "lba": 1516848,
+      "size": 843846
+    },
+    "/CRS/SSN0/HOL1109.XB;1": {
+      "lba": 1517261,
+      "size": 829198
+    },
+    "/CRS/SSN0/HOL1110.XB;1": {
+      "lba": 1517666,
+      "size": 755810
+    },
+    "/CRS/SSN0/HOL1111.XB;1": {
+      "lba": 1518036,
+      "size": 861866
+    },
+    "/CRS/SSN0/HOL1112.XB;1": {
+      "lba": 1518457,
+      "size": 947818
+    },
+    "/CRS/SSN0/HOL1113.XB;1": {
+      "lba": 1518920,
+      "size": 777314
+    },
+    "/CRS/SSN0/HOL1114.XB;1": {
+      "lba": 1519300,
+      "size": 720666
+    },
+    "/CRS/SSN0/HOL1115.XB;1": {
+      "lba": 1519652,
+      "size": 996514
+    },
+    "/CRS/SSN0/HOL1116.XB;1": {
+      "lba": 1520139,
+      "size": 931591
+    },
+    "/CRS/SSN0/HOL1117.XB;1": {
+      "lba": 1520594,
+      "size": 875018
+    },
+    "/CRS/SSN0/HOL1118.XB;1": {
+      "lba": 1521022,
+      "size": 899574
+    },
+    "/CRS/SSN0/HOL1217.XB;1": {
+      "lba": 1521462,
+      "size": 649602
+    },
+    "/CRS/SSN0/HOL1301.XB;1": {
+      "lba": 1521780,
+      "size": 900838
+    },
+    "/CRS/SSN0/HOL1309.XB;1": {
+      "lba": 1522220,
+      "size": 837654
+    },
+    "/CRS/SSN1/HOL0103.XB;1": {
+      "lba": 1522630,
+      "size": 732724
+    },
+    "/CRS/SSN1/HOL0112.XB;1": {
+      "lba": 1522988,
+      "size": 773344
+    },
+    "/CRS/SSN1/HOL0116.XB;1": {
+      "lba": 1523366,
+      "size": 784212
+    },
+    "/CRS/SSN1/HOL0208.XB;1": {
+      "lba": 1523749,
+      "size": 614866
+    },
+    "/CRS/SSN1/HOL0306.XB;1": {
+      "lba": 1524050,
+      "size": 718600
+    },
+    "/CRS/SSN1/HOL0313.XB;1": {
+      "lba": 1524401,
+      "size": 613996
+    },
+    "/CRS/SSN1/HOL0716.XB;1": {
+      "lba": 1524701,
+      "size": 1130784
+    },
+    "/CRS/SSN1/HOL0717.XB;1": {
+      "lba": 1525254,
+      "size": 1070296
+    },
+    "/CRS/SSN1/HOL0718.XB;1": {
+      "lba": 1525777,
+      "size": 1088504
+    },
+    "/CRS/SSN1/HOL0801.XB;1": {
+      "lba": 1526309,
+      "size": 1200604
+    },
+    "/CRS/SSN1/HOL0802.XB;1": {
+      "lba": 1526896,
+      "size": 916620
+    },
+    "/CRS/SSN1/HOL0803.XB;1": {
+      "lba": 1527344,
+      "size": 1081868
+    },
+    "/CRS/SSN1/HOL0804.XB;1": {
+      "lba": 1527873,
+      "size": 1119940
+    },
+    "/CRS/SSN1/HOL0806.XB;1": {
+      "lba": 1528420,
+      "size": 1037924
+    },
+    "/CRS/SSN1/HOL0809.XB;1": {
+      "lba": 1528927,
+      "size": 1145100
+    },
+    "/CRS/SSN1/HOL0812.XB;1": {
+      "lba": 1529487,
+      "size": 1067816
+    },
+    "/CRS/SSN1/HOL0813.XB;1": {
+      "lba": 1530009,
+      "size": 1065004
+    },
+    "/CRS/SSN1/HOL0815.XB;1": {
+      "lba": 1530530,
+      "size": 1246444
+    },
+    "/CRS/SSN1/HOL0817.XB;1": {
+      "lba": 1531139,
+      "size": 957306
+    },
+    "/CRS/SSN1/HOL0901.XB;1": {
+      "lba": 1531607,
+      "size": 962415
+    },
+    "/CRS/SSN1/HOL0903.XB;1": {
+      "lba": 1532077,
+      "size": 739299
+    },
+    "/CRS/SSN1/HOL0905.XB;1": {
+      "lba": 1532438,
+      "size": 840792
+    },
+    "/CRS/SSN1/HOL0906.XB;1": {
+      "lba": 1532849,
+      "size": 688644
+    },
+    "/CRS/SSN1/HOL0907.XB;1": {
+      "lba": 1533186,
+      "size": 797391
+    },
+    "/CRS/SSN1/HOL0908.XB;1": {
+      "lba": 1533576,
+      "size": 830960
+    },
+    "/CRS/SSN1/HOL0911.XB;1": {
+      "lba": 1533982,
+      "size": 709716
+    },
+    "/CRS/SSN1/HOL0913.XB;1": {
+      "lba": 1534329,
+      "size": 727980
+    },
+    "/CRS/SSN1/HOL0915.XB;1": {
+      "lba": 1534685,
+      "size": 715872
+    },
+    "/CRS/SSN1/HOL0916.XB;1": {
+      "lba": 1535035,
+      "size": 656850
+    },
+    "/CRS/SSN1/HOL1217.XB;1": {
+      "lba": 1535356,
+      "size": 651791
+    },
+    "/CRS/SSN1/HOL1301.XB;1": {
+      "lba": 1535675,
+      "size": 922420
+    },
+    "/CRS/SSN1/HOL1309.XB;1": {
+      "lba": 1536126,
+      "size": 832474
+    },
+    "/CRS/SSN2/HOL0101.XB;1": {
+      "lba": 1536533,
+      "size": 894119
+    },
+    "/CRS/SSN2/HOL0102.XB;1": {
+      "lba": 1536970,
+      "size": 588148
+    },
+    "/CRS/SSN2/HOL0103.XB;1": {
+      "lba": 1537258,
+      "size": 734840
+    },
+    "/CRS/SSN2/HOL0104.XB;1": {
+      "lba": 1537617,
+      "size": 793336
+    },
+    "/CRS/SSN2/HOL0105.XB;1": {
+      "lba": 1538005,
+      "size": 853308
+    },
+    "/CRS/SSN2/HOL0106.XB;1": {
+      "lba": 1538422,
+      "size": 798956
+    },
+    "/CRS/SSN2/HOL0108.XB;1": {
+      "lba": 1538813,
+      "size": 829186
+    },
+    "/CRS/SSN2/HOL0109.XB;1": {
+      "lba": 1539218,
+      "size": 854680
+    },
+    "/CRS/SSN2/HOL0110.XB;1": {
+      "lba": 1539636,
+      "size": 803292
+    },
+    "/CRS/SSN2/HOL0111.XB;1": {
+      "lba": 1540029,
+      "size": 839860
+    },
+    "/CRS/SSN2/HOL0112.XB;1": {
+      "lba": 1540440,
+      "size": 765736
+    },
+    "/CRS/SSN2/HOL0113.XB;1": {
+      "lba": 1540814,
+      "size": 741834
+    },
+    "/CRS/SSN2/HOL0114.XB;1": {
+      "lba": 1541177,
+      "size": 880510
+    },
+    "/CRS/SSN2/HOL0115.XB;1": {
+      "lba": 1541607,
+      "size": 793647
+    },
+    "/CRS/SSN2/HOL0116.XB;1": {
+      "lba": 1541995,
+      "size": 787364
+    },
+    "/CRS/SSN2/HOL0117.XB;1": {
+      "lba": 1542380,
+      "size": 784800
+    },
+    "/CRS/SSN2/HOL0118.XB;1": {
+      "lba": 1542764,
+      "size": 858548
+    },
+    "/CRS/SSN2/HOL0208.XB;1": {
+      "lba": 1543184,
+      "size": 614866
+    },
+    "/CRS/SSN2/HOL0306.XB;1": {
+      "lba": 1543485,
+      "size": 728912
+    },
+    "/CRS/SSN2/HOL0309.XB;1": {
+      "lba": 1543841,
+      "size": 823564
+    },
+    "/CRS/SSN2/HOL0313.XB;1": {
+      "lba": 1544244,
+      "size": 609416
+    },
+    "/CRS/SSN2/HOL0315.XB;1": {
+      "lba": 1544542,
+      "size": 714576
+    },
+    "/CRS/SSN2/HOL0716.XB;1": {
+      "lba": 1544891,
+      "size": 1131428
+    },
+    "/CRS/SSN2/HOL0717.XB;1": {
+      "lba": 1545444,
+      "size": 1063576
+    },
+    "/CRS/SSN2/HOL0718.XB;1": {
+      "lba": 1545964,
+      "size": 1081652
+    },
+    "/CRS/SSN2/HOL0801.XB;1": {
+      "lba": 1546493,
+      "size": 1230928
+    },
+    "/CRS/SSN2/HOL0802.XB;1": {
+      "lba": 1547095,
+      "size": 957472
+    },
+    "/CRS/SSN2/HOL0803.XB;1": {
+      "lba": 1547563,
+      "size": 1122556
+    },
+    "/CRS/SSN2/HOL0804.XB;1": {
+      "lba": 1548112,
+      "size": 1116584
+    },
+    "/CRS/SSN2/HOL0806.XB;1": {
+      "lba": 1548658,
+      "size": 1078380
+    },
+    "/CRS/SSN2/HOL0809.XB;1": {
+      "lba": 1549185,
+      "size": 1146140
+    },
+    "/CRS/SSN2/HOL0812.XB;1": {
+      "lba": 1549745,
+      "size": 1064444
+    },
+    "/CRS/SSN2/HOL0813.XB;1": {
+      "lba": 1550265,
+      "size": 1105864
+    },
+    "/CRS/SSN2/HOL0815.XB;1": {
+      "lba": 1550805,
+      "size": 1243028
+    },
+    "/CRS/SSN2/HOL0817.XB;1": {
+      "lba": 1551412,
+      "size": 953942
+    },
+    "/CRS/SSN2/HOL1217.XB;1": {
+      "lba": 1551878,
+      "size": 657684
+    },
+    "/CRS/SSN2/HOL1301.XB;1": {
+      "lba": 1552200,
+      "size": 889029
+    },
+    "/CRS/SSN2/HOL1309.XB;1": {
+      "lba": 1552635,
+      "size": 827130
+    },
+    "/CRS/SSN3/HOL0103.XB;1": {
+      "lba": 1553039,
+      "size": 708700
+    },
+    "/CRS/SSN3/HOL0105.XB;1": {
+      "lba": 1553386,
+      "size": 823354
+    },
+    "/CRS/SSN3/HOL0108.XB;1": {
+      "lba": 1553789,
+      "size": 818006
+    },
+    "/CRS/SSN3/HOL0112.XB;1": {
+      "lba": 1554189,
+      "size": 738500
+    },
+    "/CRS/SSN3/HOL0113.XB;1": {
+      "lba": 1554550,
+      "size": 705198
+    },
+    "/CRS/SSN3/HOL0116.XB;1": {
+      "lba": 1554895,
+      "size": 746920
+    },
+    "/CRS/SSN3/HOL0208.XB;1": {
+      "lba": 1555260,
+      "size": 614866
+    },
+    "/CRS/SSN3/HOL0306.XB;1": {
+      "lba": 1555561,
+      "size": 723228
+    },
+    "/CRS/SSN3/HOL0309.XB;1": {
+      "lba": 1555915,
+      "size": 823348
+    },
+    "/CRS/SSN3/HOL0313.XB;1": {
+      "lba": 1556318,
+      "size": 609204
+    },
+    "/CRS/SSN3/HOL0315.XB;1": {
+      "lba": 1556616,
+      "size": 730424
+    },
+    "/CRS/SSN3/HOL0417.XB;1": {
+      "lba": 1556973,
+      "size": 711514
+    },
+    "/CRS/SSN3/HOL0418.XB;1": {
+      "lba": 1557321,
+      "size": 796376
+    },
+    "/CRS/SSN3/HOL0716.XB;1": {
+      "lba": 1557710,
+      "size": 1111024
+    },
+    "/CRS/SSN3/HOL0717.XB;1": {
+      "lba": 1558253,
+      "size": 1043288
+    },
+    "/CRS/SSN3/HOL0718.XB;1": {
+      "lba": 1558763,
+      "size": 1061356
+    },
+    "/CRS/SSN3/HOL0801.XB;1": {
+      "lba": 1559282,
+      "size": 1225468
+    },
+    "/CRS/SSN3/HOL0802.XB;1": {
+      "lba": 1559881,
+      "size": 952008
+    },
+    "/CRS/SSN3/HOL0803.XB;1": {
+      "lba": 1560346,
+      "size": 1117096
+    },
+    "/CRS/SSN3/HOL0804.XB;1": {
+      "lba": 1560892,
+      "size": 1111124
+    },
+    "/CRS/SSN3/HOL0806.XB;1": {
+      "lba": 1561435,
+      "size": 1072924
+    },
+    "/CRS/SSN3/HOL0809.XB;1": {
+      "lba": 1561959,
+      "size": 1140684
+    },
+    "/CRS/SSN3/HOL0812.XB;1": {
+      "lba": 1562516,
+      "size": 1064444
+    },
+    "/CRS/SSN3/HOL0813.XB;1": {
+      "lba": 1563036,
+      "size": 1100400
+    },
+    "/CRS/SSN3/HOL0815.XB;1": {
+      "lba": 1563574,
+      "size": 1243028
+    },
+    "/CRS/SSN3/HOL0817.XB;1": {
+      "lba": 1564181,
+      "size": 948482
+    },
+    "/CRS/SSN3/HOL1217.XB;1": {
+      "lba": 1564645,
+      "size": 638272
+    },
+    "/CRS/SSN3/HOL1301.XB;1": {
+      "lba": 1564957,
+      "size": 857452
+    },
+    "/CRS/SSN3/HOL1309.XB;1": {
+      "lba": 1565376,
+      "size": 819230
+    },
+    "/MENU/M_CHAR/GUIDE/GC00.XB;1": {
+      "lba": 1565777,
+      "size": 391560
+    },
+    "/MENU/M_MENU1/MENU06.XB;1": {
+      "lba": 1565969,
+      "size": 144714
+    },
+    "/MENU/M_MENU1/MENU0C.XB;1": {
+      "lba": 1566040,
+      "size": 370022
+    },
+    "/MENU/M_MENU1/MENU11.XB;1": {
+      "lba": 1566221,
+      "size": 86122
+    },
+    "/MENU/M_MENU1/MENU14.XB;1": {
+      "lba": 1566264,
+      "size": 746216
+    },
+    "/MENU/M_MENU2/MENU22.XB;1": {
+      "lba": 1566629,
+      "size": 27642
+    },
+    "/MENU/M_WALL/WALL104.XB;1": {
+      "lba": 1566643,
+      "size": 39804
+    },
+    "/MENU/M_WALL/WALL157.XB;1": {
+      "lba": 1566663,
+      "size": 5780
+    },
+    "/MENU/M_WALL/WALL172.XB;1": {
+      "lba": 1566666,
+      "size": 165412
+    },
+    "/MENU/M_WALL/WALL173.XB;1": {
+      "lba": 1566747,
+      "size": 160102
+    },
+    "/MENU/M_WALL/WALL174.XB;1": {
+      "lba": 1566826,
+      "size": 169196
+    },
+    "/MENU/M_WALL/WALL175.XB;1": {
+      "lba": 1566909,
+      "size": 178776
+    },
+    "/MENU/M_WALL/WALL243.XB;1": {
+      "lba": 1566997,
+      "size": 144850
+    },
+    "/MENU/M_WALL/WALL251.XB;1": {
+      "lba": 1567068,
+      "size": 155290
+    },
+    "/MENU/M_WALL/WALL252.XB;1": {
+      "lba": 1567144,
+      "size": 134744
+    },
+    "/MENU/M_WALL/WALL253.XB;1": {
+      "lba": 1567210,
+      "size": 148694
+    },
+    "/PC/PC03/PC030001.XB;1": {
+      "lba": 1567283,
+      "size": 87566
+    },
+    "/PC/PC03/PC030004.XB;1": {
+      "lba": 1567326,
+      "size": 119912
+    },
+    "/PC/PC03/PC030101.XB;1": {
+      "lba": 1567385,
+      "size": 87566
+    },
+    "/PC/PC03/PC030104.XB;1": {
+      "lba": 1567428,
+      "size": 119912
+    },
+    "/PC/PC03/PC030201.XB;1": {
+      "lba": 1567487,
+      "size": 87566
+    },
+    "/PC/PC03/PC030204.XB;1": {
+      "lba": 1567530,
+      "size": 119912
+    },
+    "/PC/PC03/PC030301.XB;1": {
+      "lba": 1567589,
+      "size": 87566
+    },
+    "/PC/PC03/PC030304.XB;1": {
+      "lba": 1567632,
+      "size": 119912
+    },
+    "/RESULT/PC03/COL00.XB;1": {
+      "lba": 1567691,
+      "size": 582715
+    },
+    "/RESULT/PC03/COL01.XB;1": {
+      "lba": 1567976,
+      "size": 582955
+    },
+    "/RESULT/PC03/COL02.XB;1": {
+      "lba": 1568261,
+      "size": 585323
+    },
+    "/RESULT/PC03/COL03.XB;1": {
+      "lba": 1568547,
+      "size": 588399
+    },
+    "/RESULT/PC03/COL04.XB;1": {
+      "lba": 1568835,
+      "size": 592143
+    },
+    "/RESULT/PC03/COL05.XB;1": {
+      "lba": 1569125,
+      "size": 589407
+    },
+    "/RESULT/PC03/COL06.XB;1": {
+      "lba": 1569413,
+      "size": 599979
+    },
+    "/RESULT/PC03/COL07.XB;1": {
+      "lba": 1569706,
+      "size": 592979
+    }
+  },
+  "changed_megabyte_blocks": 283,
+  "iso_bytes": 3215353856,
+  "limitations": [
+    "이번 수정의 이름 입력·종료·성적표·플레이어 선택 문구는 원본 대조와 이미지/바이너리 검사 완료, 해당 화면의 최종 ISO 실행 재확인은 미완료",
+    "전체 모드·전체 플레이·모든 3D 장식과 영상의 일본어 잔존 여부를 보장하지 않음",
+    "84개 MTI 구조 교정은 전체 2195개 MTI 교정 완료를 뜻하지 않음"
+  ],
+  "runtime_checks": [
+    "20261004102610: 최종 ISO 한국어 메모리 카드 안내",
+    "20261004102812: 코스 선택",
+    "20261004102947 및 103202: 메인 메뉴",
+    "20261004103040: 경기 전 최종 확인"
+  ],
+  "regression_checks": [
+    "종료 UV 영역 밖 픽셀 불변",
+    "한글 188자 5개 글자판 셀 여백",
+    "MTI 84종 파일 길이와 팔레트 보존",
+    "플레이어 선택 TAI 7프레임 번역 및 팔레트 보존"
+  ]
+}

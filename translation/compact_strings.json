@@ -1,0 +1,1717 @@
+[
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193344,
+    "korean": "기스케",
+    "new_hex": "4990c60000000000",
+    "original_sha256": "dabff3aed06809b33a4a714c1fe2f1da36f346b62182482a2d03763a3e8222c4"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193352,
+    "korean": "기요시",
+    "new_hex": "49aa920000000000",
+    "original_sha256": "13cf36709443acf6fcdbbce986a67f02865ab93ffe275d8bff6d036cb2fba4c7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193360,
+    "korean": "히사오",
+    "new_hex": "ec80a60000000000",
+    "original_sha256": "5dcca54ecc20031294f675d9d7d8ef1c52251469b9489349d50795f30a80150c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193368,
+    "korean": "아키요시",
+    "new_hex": "97d1aa9200000000",
+    "original_sha256": "0201db91a20c669dac024c497207623ab0949f4a5cbee642b027a445221d4745"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193376,
+    "korean": "쓰네히코",
+    "new_hex": "954decc900000000",
+    "original_sha256": "a7f2745808c6af6ff17d139241ec5eecf5a924df2926c11512026c91b2268c1b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193384,
+    "korean": "쇼고",
+    "new_hex": "8d44000000000000",
+    "original_sha256": "c3ae787b8fc069295133ad1eec402c5db6b02d56b1fa1185c9b4489520e8a51a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193392,
+    "korean": "야와라",
+    "new_hex": "a0a8590000000000",
+    "original_sha256": "48dc296384be6ce22f2478cf76464d2fa8cb12e5266d3e58ec56a484820f6bf7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193400,
+    "korean": "분타",
+    "new_hex": "7afe000000000000",
+    "original_sha256": "532e192bef97a3f631470021c0b53214d3a1d580dcfc18729985ee8914046fc3"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193408,
+    "korean": "히로에",
+    "new_hex": "ec5da40000000000",
+    "original_sha256": "419640d38c957bcf8727fcb3127fa19721084b887387c1a513af3a8f22778ba7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193416,
+    "korean": "시바쿄",
+    "new_hex": "9270cc0000000000",
+    "original_sha256": "02392ead9670ce2bbdc792190e703ee89d546c7a09ef8630739b2688f94d2a3e"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193424,
+    "korean": "류노스케",
+    "new_hex": "625090c600000000",
+    "original_sha256": "f73b9d434cd3d9888d245f0c1674fa844bcbce1ff06684928662f525b30ca4ea"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193432,
+    "korean": "가즈히로",
+    "new_hex": "40b7ec5d00000000",
+    "original_sha256": "ccd145e677214c1ce856150b4adc7032227fbf18c013dd2c21e6f6570be897c7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193440,
+    "korean": "다이스케",
+    "new_hex": "53b190c600000000",
+    "original_sha256": "507008d048474ac9601d836a4314d8828ad7324fb08e76c87b885270b1a5ac15"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193448,
+    "korean": "루미코",
+    "new_hex": "616cc90000000000",
+    "original_sha256": "c3e3502e6bb04a0b963f15aec89c30192f08cce488e1bdd330fec60c4038d1f4"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193456,
+    "korean": "센다히사미",
+    "new_hex": "8753ec806c000000",
+    "original_sha256": "2711f0b5fcff7253325d83f5f348ab528cbb13d3df8bcd8e91982bd14af76ab0"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193464,
+    "korean": "후지노리카",
+    "new_hex": "eab85065c4000000",
+    "original_sha256": "e26560d7fe9bc03a39f52c2ce9f840fc364f8501615ff99745d2b61439d7c7b6"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193472,
+    "korean": "다이키",
+    "new_hex": "53b1d10000000000",
+    "original_sha256": "76870467857e99a06eeb101e9199e7b206059ec7e2b9004e115d6b7bc7466b33"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193480,
+    "korean": "교코",
+    "new_hex": "46c9000000000000",
+    "original_sha256": "e91c6958f5dc22c370a8df44bc28ba2ac71dba821314cbe2247ce3665d5945dd"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193488,
+    "korean": "가즈키치",
+    "new_hex": "40b7d1c200000000",
+    "original_sha256": "b8d2766ee2addccd8d6cc73eafbb7f926f1fe7dda79ed9639a499410f5514a85"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193496,
+    "korean": "히로노리",
+    "new_hex": "ec5d506500000000",
+    "original_sha256": "b429e883dc7ec18cb15110424706934f4db6f325f15c3e8a73e27ee0aab3c11b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193504,
+    "korean": "마사미",
+    "new_hex": "66806c0000000000",
+    "original_sha256": "416950b38ce59f897d91fda71e863afd20060c41e34e220aeef1d04987a63a4a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193512,
+    "korean": "반초",
+    "new_hex": "72c1000000000000",
+    "original_sha256": "67cda52992409a3560cb0e5ec31befd346b2b159b37c04d339de133540405267"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193520,
+    "korean": "진이치",
+    "new_hex": "b9b1c20000000000",
+    "original_sha256": "a5bdbb12b6dc64f80b41f7943a622ce87e0ab47d58e0d3179d880b5dcf48c9d5"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193528,
+    "korean": "도시아키",
+    "new_hex": "989297d100000000",
+    "original_sha256": "33cc667acbb19064a68520afc16575cbb920c3f431b7272ddadae7b42cf4f1bc"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193536,
+    "korean": "아케본",
+    "new_hex": "97c6770000000000",
+    "original_sha256": "379a3cbd6b87bef1684763bf821c09978ad7f29708a64bd6bebad56b07b44bae"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193544,
+    "korean": "미키",
+    "new_hex": "6cd1000000000000",
+    "original_sha256": "decbd1db6bdebccdec73bec38edbea70849e8af5b4bfabf8c1fa8f520a456536"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193552,
+    "korean": "고지고지",
+    "new_hex": "44b844b800000000",
+    "original_sha256": "fa4b9bef215438674014b541d472a1aa9876af78b3f0987d63cf39bc2bf31cb6"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193560,
+    "korean": "아이코",
+    "new_hex": "97b1c90000000000",
+    "original_sha256": "b264b9fd57786ddf81f900b605af552248b66bd55978fba5104b6834a0d91a28"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193568,
+    "korean": "시게짱",
+    "new_hex": "9242bb0000000000",
+    "original_sha256": "40d10ea94170be3d02f0a1bba6a332a9a529cc74cc105eecf6baab51e8ee0ac5"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193576,
+    "korean": "치아키",
+    "new_hex": "c297d10000000000",
+    "original_sha256": "b74c00106a63127b6f7e02af2efcd71e96a2c1963b5bd6de99f5bcb18448f666"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193584,
+    "korean": "아유무",
+    "new_hex": "97b06a0000000000",
+    "original_sha256": "c81a9413db408e00258e083f9b4f016b96ede4835be8a8452376d7a886ac4747"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193592,
+    "korean": "이사오",
+    "new_hex": "b180a60000000000",
+    "original_sha256": "02d186b3bb962170819d8b355f7a969cf2bc4dba923c08abe7583be2d589fb7a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193600,
+    "korean": "고노스케",
+    "new_hex": "445090c600000000",
+    "original_sha256": "fe21de4bec2b205cdfe467ba5739c0eb1e794f161f952fc05f8b9317099f4edb"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193608,
+    "korean": "후미히코",
+    "new_hex": "ea6cecc900000000",
+    "original_sha256": "c04d741ba8bfc631eecf9922543c817ecd568216fd15cda2bdca80d226355abd"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193616,
+    "korean": "히데키",
+    "new_hex": "ec55d10000000000",
+    "original_sha256": "c63c71b35534c256ee2e8c02e900e0317076cbdf89cfee0e66c83c71ddd13711"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193624,
+    "korean": "아이",
+    "new_hex": "97b1000000000000",
+    "original_sha256": "30b83af1978fb5e53a0e088538ae58c1dcbf33f3def2f403ebb6499f82f6105b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193632,
+    "korean": "다쿠미",
+    "new_hex": "53cd6c0000000000",
+    "original_sha256": "4e5e4b89fe7732f2f444abe6b5eeda4e4ab5e20ff0c2dc8fc5a773c2b9dac8ec"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193640,
+    "korean": "야나아쓰",
+    "new_hex": "a04c979500000000",
+    "original_sha256": "350c98b196bc41838adf9cf06dec8a7e3e9a6e8f838c7df569c0459b88040619"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193648,
+    "korean": "다쓰요리",
+    "new_hex": "5395aa6500000000",
+    "original_sha256": "8622bafa51675b4c24acc2c2d2eba13d74e97028ad21af35a623c9ad9430b801"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193656,
+    "korean": "유키코",
+    "new_hex": "b0d1c90000000000",
+    "original_sha256": "a4ae1756f2d935d026e4756b98747560db120054568d2d2d79fa6b11f89a9f5f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193664,
+    "korean": "왕짱",
+    "new_hex": "a9bb000000000000",
+    "original_sha256": "e319daf461b828e2eb6b86d532e7244f137b7e006b8926dfd19db96ab6cd157f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193672,
+    "korean": "겐타로",
+    "new_hex": "43fe5d0000000000",
+    "original_sha256": "92fdc484848743dd8fab6a28cbdb9741eff7cbf34e6c17a92572883cdb354505"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193680,
+    "korean": "미카",
+    "new_hex": "6cc4000000000000",
+    "original_sha256": "206082ba594fec61125daee86be94d8ce2cd3be1134328a630aaed232dbbf50e"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193688,
+    "korean": "다쓰노리",
+    "new_hex": "5395506500000000",
+    "original_sha256": "c3a96797de6f7fa01266f3db9ace808a664d8e66d69cdec218582e7dfa3c1413"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193696,
+    "korean": "하마라",
+    "new_hex": "e166590000000000",
+    "original_sha256": "826a6f512bc277b40e8dd4735e6794d4040fb0e083b2638c7d1c6d1bacabb140"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193704,
+    "korean": "하지메",
+    "new_hex": "e1b8680000000000",
+    "original_sha256": "2fbfc8dbc59c264266564587eea1bca46cc4f26b4f58bc26f9ce21c81d7d69a1"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193712,
+    "korean": "도시유키",
+    "new_hex": "9892b0d100000000",
+    "original_sha256": "daeb4cb71f36bd80475a88023b7c16bbdf5ecac2cdd652b235c12d71a0ef3ea6"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193720,
+    "korean": "마차키",
+    "new_hex": "66bcd10000000000",
+    "original_sha256": "b9f2b65fa5b66e581708b47f511e821ea382a343fa762ca805799552a95bfb49"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193728,
+    "korean": "도모미",
+    "new_hex": "98696c0000000000",
+    "original_sha256": "984a218684607a5bacadb7a39e7a6817ab7ce635b4d9d7feadf84eaef5a1c844"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193736,
+    "korean": "게이이치로",
+    "new_hex": "42b1b1c25d000000",
+    "original_sha256": "063f50207fd92cb6f2bc55bb0a73985ad8a8830f1882dc60898f9badf19dc222"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193744,
+    "korean": "다카시",
+    "new_hex": "53c4920000000000",
+    "original_sha256": "4db72cb639c9c8f8aa4e8fbdfd6228f5e4025a1260781d3499310a576cf75cbb"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193752,
+    "korean": "헤짱",
+    "new_hex": "e4bb000000000000",
+    "original_sha256": "d217fdc7660a0ccac24b0fda765d910516ceb6723196ee9582191b847b34e4c6"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193760,
+    "korean": "히로유키",
+    "new_hex": "ec5db0d100000000",
+    "original_sha256": "016e7e82fe6adf8e0e8bda1104e3a0c3e52461b9ac8d9b451bb28c5717c87d6f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193768,
+    "korean": "다레오",
+    "new_hex": "535ca60000000000",
+    "original_sha256": "c621fdd563981f1dcb097ebc36bbbe3d9bd0836e69a20ba5a4c74cbf464065cf"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193776,
+    "korean": "마사아키",
+    "new_hex": "668097d100000000",
+    "original_sha256": "c90a8a5e9c6f7662fd9bb8ae5fbad8964fd7e4e8a719923070d5fb31488dc80c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193784,
+    "korean": "산짱",
+    "new_hex": "81bb000000000000",
+    "original_sha256": "0eb502b54724136218a17b3a5dd588e50117a885a502fc6d3d3c545ff084206f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193792,
+    "korean": "다이사쿠",
+    "new_hex": "53b180cd00000000",
+    "original_sha256": "69fd66713e28caec52254e43204017228fa59a28f414905034b1301a546f17b9"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193800,
+    "korean": "데쓰야",
+    "new_hex": "5595a00000000000",
+    "original_sha256": "e9d7221754f6206d19833531e0d7fdf4a256705161f7835df5ac923c8d1d0f4c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193808,
+    "korean": "우에스기",
+    "new_hex": "aba4904900000000",
+    "original_sha256": "b96294690892ba21bf0aab080ecad3ad99712a98289ca69d3f8262b71b721f5d"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193816,
+    "korean": "오타니",
+    "new_hex": "a6fe520000000000",
+    "original_sha256": "3995ee957ed859db8220638c3f82bc78c3caa18b3ea208f6532924f2fab628da"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193824,
+    "korean": "사노",
+    "new_hex": "8050000000000000",
+    "original_sha256": "4f442edc77ed5174587052035e9c1ae5577587ceb5530092696d002cb971908c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193832,
+    "korean": "시이나",
+    "new_hex": "92b14c0000000000",
+    "original_sha256": "70d69011fcd4172e5cdc7c98b9dd5cb95cab6ff434c76383629d97b2f6cbd4d8"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193840,
+    "korean": "후타무라",
+    "new_hex": "eafe6a5900000000",
+    "original_sha256": "2ee63e8017514e71c8162281edac1ee3a83eb62c2835d3c5e2d63508cb9aa1c5"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193848,
+    "korean": "모리야",
+    "new_hex": "6965a00000000000",
+    "original_sha256": "afdff27aee42fef06d77f255a31509a6b65a3b6ea679d3bd299adbf5bc93033e"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193856,
+    "korean": "하야카와",
+    "new_hex": "e1a0c4a800000000",
+    "original_sha256": "0fe26c973d146a03ec7283543313c0541487ce1da5703f7ac06c95be04b9d87d"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193864,
+    "korean": "히데쿠라",
+    "new_hex": "ec55cd5900000000",
+    "original_sha256": "5048a086bbdc8367b9f4a65368ef7eb60d27ca74d1035904bb34190ef33ff763"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193872,
+    "korean": "후지와라",
+    "new_hex": "eab8a85900000000",
+    "original_sha256": "cffaf9a65c1430f2d8b4c09286d38eb985a06b5fcc1ebcac991ba5b2d6399e82"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193880,
+    "korean": "이소베",
+    "new_hex": "b18a760000000000",
+    "original_sha256": "bbcb85c16f6173aa8afe4013cc4522512174d4577b4308ed09312d11ccdfa55d"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193888,
+    "korean": "미치로",
+    "new_hex": "6cc25d0000000000",
+    "original_sha256": "906af4f74ecbb231e2b52f8a65bc761c7e06dfd180365de53ed05987619d7193"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193896,
+    "korean": "영맨",
+    "new_hex": "a567000000000000",
+    "original_sha256": "45d955f6a558e7c2e5f5405306a9aa72f9a3e0e1e4194eca953d8a145acc373b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193904,
+    "korean": "히데",
+    "new_hex": "ec55000000000000",
+    "original_sha256": "97e8db899a68607be15cdefa933905d374a2e3edbb64c68cdbbf947965aa4b0a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193912,
+    "korean": "순스케",
+    "new_hex": "8e90c60000000000",
+    "original_sha256": "35530c0d13d9b698ac60e7d39e88bbfd1477a3ab25ba62462331b5657ea1a7f6"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193920,
+    "korean": "기바짱",
+    "new_hex": "4970bb0000000000",
+    "original_sha256": "5f61bfcddc6e77ca27655bccd32a12b4e640909fc7af5f369898beada39dd7ca"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193928,
+    "korean": "마사시",
+    "new_hex": "6680920000000000",
+    "original_sha256": "202d21103e3f8e9978a425634d9015f9c526d56eae9e13b21f1b665b8cca506b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193936,
+    "korean": "미즈노",
+    "new_hex": "6cb7500000000000",
+    "original_sha256": "611ed164761e03a135348bb4b7eb4f066a8db08c8964bdbe37222e30c6a6e445"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193944,
+    "korean": "미야키",
+    "new_hex": "6ca0d10000000000",
+    "original_sha256": "7d22907cc999e03605d82d3c92f896bc53e65aa56a915e6b480d587a0c38a699"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193952,
+    "korean": "아사카와",
+    "new_hex": "9780c4a800000000",
+    "original_sha256": "7560861e20130840bd4f5731f0762eac1a868670b5d7102ab48927ed18270acd"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193960,
+    "korean": "이치시게",
+    "new_hex": "b1c2924200000000",
+    "original_sha256": "9c793de95b67b851ef413d3844c2435a6ac314e93b04a6f4f28e4c5f3eaf7a65"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193968,
+    "korean": "마스모토",
+    "new_hex": "669069d500000000",
+    "original_sha256": "69282f68afcfc94867a2035cdc2378c15c18b86964d0c49a713fd2683733f0af"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193976,
+    "korean": "구라이시",
+    "new_hex": "4759b19200000000",
+    "original_sha256": "4ad454cad22e83bac99694746871eec0c048d4574712f419dd8590c71306ed65"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193984,
+    "korean": "마쓰조",
+    "new_hex": "6695b60000000000",
+    "original_sha256": "37bf42d5651ac83a284b62710991188d16860f2aa63a2d610d3ca0081e8f4b23"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1193992,
+    "korean": "다쓰카와",
+    "new_hex": "5395c4a800000000",
+    "original_sha256": "a1fd73cf459575a009d3a039bdaaa1a103e72e838ffd1d517b1ec48dc3d465b5"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194000,
+    "korean": "다케짱",
+    "new_hex": "53c6bb0000000000",
+    "original_sha256": "2aedd45b8287dc7adb5263903f36fee1fde7a5f13fcdd1a7bef35dfce194d37e"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194008,
+    "korean": "가네코",
+    "new_hex": "404dc90000000000",
+    "original_sha256": "76ad39242814f80090a6c69a98c54f6cd54a856edc9b6dc5d976c12343654da7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194016,
+    "korean": "에가오",
+    "new_hex": "a440a60000000000",
+    "original_sha256": "08d9433edcde170270fa9a5f007d1b595d7ce5db34b6a2429cb2d43a24d2352b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194024,
+    "korean": "도미카와",
+    "new_hex": "986cc4a800000000",
+    "original_sha256": "f965733d92ca6b9e79b6e31fb538af72da0f548c65dc362c8c0ee9a9781733bc"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194032,
+    "korean": "고바야시",
+    "new_hex": "4470a09200000000",
+    "original_sha256": "08930b682b6e386d9913135a28b240902046861389919d5050d2f01c2ca44258"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194040,
+    "korean": "딕",
+    "new_hex": "5800000000000000",
+    "original_sha256": "b5a368365f243bd37bc37d3d5c413257c4d5076c36b3b95114081189973d4603"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194048,
+    "korean": "리",
+    "new_hex": "6500000000000000",
+    "original_sha256": "d0335ebab5a51de738e4b00e86f47ebfc5128ac83d3fc5d5e2128c7f58d56911"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194056,
+    "korean": "아폴리",
+    "new_hex": "97db650000000000",
+    "original_sha256": "a02ee345e56a114cc09a4cd63725b14350fe293ced1e29559d5bd2266757a55b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194064,
+    "korean": "로버트",
+    "new_hex": "5d73d60000000000",
+    "original_sha256": "0312789c8f8b275e6cd348c43f8dfc62eb9b2c09ccec7940f04d78ee57652a21"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194072,
+    "korean": "박",
+    "new_hex": "7100000000000000",
+    "original_sha256": "aaf6ec3bec36cdd1636dca3f4aa3a20bf1528d60699b3e5f668cd73b860ab22a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194080,
+    "korean": "첸",
+    "new_hex": "c000000000000000",
+    "original_sha256": "70c9e3d638712f489e3fa9f49bf6e86a148515189e258f7f203c9609859b602d"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194088,
+    "korean": "알베르토",
+    "new_hex": "997663d500000000",
+    "original_sha256": "66b2196069c5ecd0bd7da09e2e6d55a948dfee892cff2454ea15478f58979e25"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194096,
+    "korean": "론",
+    "new_hex": "5e00000000000000",
+    "original_sha256": "84a22bf925c3bbaffa0f25f6820c80ec444fd41b0efc50cf2b0ef409a262d2ed"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194104,
+    "korean": "리처드",
+    "new_hex": "65bd560000000000",
+    "original_sha256": "2b460d3ac1223647ada6148e97b11ae4aa867d199266c130be0f8cb1b1f1f15f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194112,
+    "korean": "폴",
+    "new_hex": "db00000000000000",
+    "original_sha256": "dcb08338536cb6b4499bc428041d146c5e4ad32640559e31d2a096c619d12258"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194120,
+    "korean": "기리타",
+    "new_hex": "4965fe0000000000",
+    "original_sha256": "f89d82de6b2ce0df594041bde200a380e98bdd8e2e226ca995814af0e67e85a7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194128,
+    "korean": "모리스",
+    "new_hex": "6965900000000000",
+    "original_sha256": "c978ca6c9ff8f32384d2630853b033108aabff12f1b4a9e1595ff55697568761"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194136,
+    "korean": "다케노",
+    "new_hex": "53c6500000000000",
+    "original_sha256": "bdaa03eb59b8d586204ae2da439acd8930147a7cc2487cc22ce5cf7532489050"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194144,
+    "korean": "스콧",
+    "new_hex": "90cb000000000000",
+    "original_sha256": "f198c62371fa8403d7a0fc71103efdcbede1914e5b94408b57af55f6980eebc2"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194152,
+    "korean": "탄",
+    "new_hex": "d200000000000000",
+    "original_sha256": "486dd24150abada1e723e971374cc38f34b1d7ca3ed17fb876d9c97e4e07161e"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194160,
+    "korean": "디아스",
+    "new_hex": "5797900000000000",
+    "original_sha256": "73e5e113a42cd37cd224531deca2867108e1d8e42b1f42c58cadb4780004996d"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194168,
+    "korean": "도쿠나카",
+    "new_hex": "98cd4cc400000000",
+    "original_sha256": "5f8fbd5e0642091f551b8ea300982997bda9f17fef8249f646e857ce0930670c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194176,
+    "korean": "사모르",
+    "new_hex": "8069630000000000",
+    "original_sha256": "4d9a325a838ea5bb596db6a6d656878c3a7623461c28c3debec07737996e2ef0"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194184,
+    "korean": "에번스",
+    "new_hex": "a474900000000000",
+    "original_sha256": "1055e83857ae3d5afda24aa54167bb1412efaf0f71d0c38e04258338e458710d"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194192,
+    "korean": "마루야마",
+    "new_hex": "6661a06600000000",
+    "original_sha256": "29d29cdd3a6f7d7bea60467d04bc35bbc3c8f86cb000d3d4fbb573b5fdd08d1c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194200,
+    "korean": "김",
+    "new_hex": "4b00000000000000",
+    "original_sha256": "81d3206ed1c0da8211a80cd4e97959aea8eb64e15a7ef14bc1ebf7b725e113e1"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194208,
+    "korean": "제이콥",
+    "new_hex": "f8b1ca0000000000",
+    "original_sha256": "e7fb0365c659b7fb9b0aba35096f5b45d424080f6fd7e87a333fb67935600b6c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194216,
+    "korean": "스티브",
+    "new_hex": "90d77b0000000000",
+    "original_sha256": "598db9b1905d89cf0361ac3e8230a698518483466ca6e91499f0b455e8baf7da"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194224,
+    "korean": "해리슨",
+    "new_hex": "e365910000000000",
+    "original_sha256": "5c83f2179b6bd37f2564d4034167a346bf276b722fc7a2f7d1f9f1e0832ffce6"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194232,
+    "korean": "아키라",
+    "new_hex": "97d1590000000000",
+    "original_sha256": "1dfdca89b64e6dd986b36ee1ffcf5924464734c7898c632f8819b9f1bdd5e48b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194240,
+    "korean": "스파이크",
+    "new_hex": "90d8b1ce00000000",
+    "original_sha256": "849926d72d21a963062469123d1fb01e0ba9dc8764da793e892410e5c9c1a86b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194248,
+    "korean": "사에키",
+    "new_hex": "80a4d10000000000",
+    "original_sha256": "dfbf87fc03ab25d35abf2b977057bd1782b1ef901f44aca9a1313696f509b91a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194256,
+    "korean": "카를로스",
+    "new_hex": "c4645d9000000000",
+    "original_sha256": "6e7a7374a3359ba5cd9e63ad3ed5cad9ad071fdfdec1157648b7433b5a2116cd"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194264,
+    "korean": "켄",
+    "new_hex": "c700000000000000",
+    "original_sha256": "61598e9eb34b7f3fe5bb28c852f8b1581e6920d1f2e4e3b1473b0c57681d90d2"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194272,
+    "korean": "고마쓰",
+    "new_hex": "4466950000000000",
+    "original_sha256": "f9757f144970300a184796d703d2db992c7075b8aa5ad0d8e1bc4016124aae72"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194280,
+    "korean": "사토",
+    "new_hex": "80d5000000000000",
+    "original_sha256": "1694cdcfb1452288cf0a2de8c9281263bacaa6efb028ce0f2c2b24809e7fe947"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194288,
+    "korean": "체스바",
+    "new_hex": "be90700000000000",
+    "original_sha256": "37f34bf7601f7947f19ccfb6cfef41e201868c98dd4ba632b012761d7ff963f5"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194296,
+    "korean": "기무라",
+    "new_hex": "496a590000000000",
+    "original_sha256": "8fd078cbb67e99496850501959935f3729c23acec8575a3def41f2974bfb9ee4"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194304,
+    "korean": "고다",
+    "new_hex": "4453000000000000",
+    "original_sha256": "2030f921d99600724c81e89b0b11d687826563d9b77146361ecc7528f3763515"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194312,
+    "korean": "조셉",
+    "new_hex": "b689000000000000",
+    "original_sha256": "12aa124fd25adb4d019014b227fe8d6705a70644598a63bc9a59595a831c22c3"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194320,
+    "korean": "마루카와",
+    "new_hex": "6661c4a800000000",
+    "original_sha256": "681a021ae73a661913c003318b085310ad97d1f4c47187dc27745e97dd77ba04"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194328,
+    "korean": "피에르",
+    "new_hex": "dea4630000000000",
+    "original_sha256": "2df670196448a1469a50d51f8438667786c415001c9d5c95d1aed0df80c41e4c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194336,
+    "korean": "고사카",
+    "new_hex": "4480c40000000000",
+    "original_sha256": "9e343c4e8b9c7e07e01867e43c44e09a7b0888277e7efcfba83675482d288634"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194344,
+    "korean": "나카니시",
+    "new_hex": "4cc4529200000000",
+    "original_sha256": "6c9c03e8d5a6e4346a843dfb3a4da85bc661d1af9d79fb6256793de83b182875"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194352,
+    "korean": "이노우에",
+    "new_hex": "b150aba400000000",
+    "original_sha256": "4d9db2ed1d55e0d428f7a24db9e00b9000feb77b373fc31eb72290cd29a73c74"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194360,
+    "korean": "마쓰모토",
+    "new_hex": "669569d500000000",
+    "original_sha256": "3c436dfe533f7b3aac6d5c633606c76934849293299d08329ca0ebf7b307bce6"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194368,
+    "korean": "니시무라",
+    "new_hex": "52926a5900000000",
+    "original_sha256": "8a41783e5b2a42dd49b79c66f957c72dafb41a3751ebf5f5db8c3740fe233bc9"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194376,
+    "korean": "사와무라",
+    "new_hex": "80a86a5900000000",
+    "original_sha256": "49f89deadc12879b1b3ee7114e0023e870b9a3411cca3dbcfacf11b7fd325dd7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194384,
+    "korean": "나가세",
+    "new_hex": "4c40850000000000",
+    "original_sha256": "0d1c24c01a5f8900a83b39df73a1245918f37f842e80681a444d18b29aa46c77"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194392,
+    "korean": "손",
+    "new_hex": "8c00000000000000",
+    "original_sha256": "eecc044cf25185940cbecff32b6060a5c593ca8aa3f70a2b3cf9d5c135eab0c3"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194400,
+    "korean": "요코자와",
+    "new_hex": "aac9b3a800000000",
+    "original_sha256": "1312287dde232c9c2ff6bea8a4d15e0750a994ae79db48e1b5f75109f81eb5a9"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194408,
+    "korean": "모리에",
+    "new_hex": "6965a40000000000",
+    "original_sha256": "8c7f3abd0f1927800f9e6635d3bc30eff22a55d4d112c6b06a1e5d350bad94aa"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194416,
+    "korean": "가젬",
+    "new_hex": "40b5000000000000",
+    "original_sha256": "45e43ae8b40951649709d080227949ba8db28a743387a067f61839447f38f39c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194424,
+    "korean": "가와사키",
+    "new_hex": "40a880d100000000",
+    "original_sha256": "99ea9cea51466066927d42bfa86f4d9f0c5eb6f704c804e5c11c2f14153c15d7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194432,
+    "korean": "페이",
+    "new_hex": "dab1000000000000",
+    "original_sha256": "cac236e00621e1b294ea171d95a6106a727619a2a78f04c59ca69a4be7d2e750"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194440,
+    "korean": "노부타",
+    "new_hex": "5079fe0000000000",
+    "original_sha256": "29f6a6025850b6d368fda5d42aa8eefa6348767d1286a31e43a4f8145343c7ec"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194448,
+    "korean": "김다쿠",
+    "new_hex": "4b53cd0000000000",
+    "original_sha256": "d75254ecab7c9273f75b3dd64ce99f30c072244ef8ec2005ab9e8821099a1d3b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194456,
+    "korean": "요네고",
+    "new_hex": "aa4d440000000000",
+    "original_sha256": "57dbba5ba04934acd81deea4b075f8be9de4b798b8d78d7763270045072dcc42"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194464,
+    "korean": "샤빈",
+    "new_hex": "837d000000000000",
+    "original_sha256": "8465fd9ff58fc37e86cc6e05f7f9107e91a2db64467a2bdd33bcb106efd1354f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194472,
+    "korean": "다니테쓰",
+    "new_hex": "5352d49500000000",
+    "original_sha256": "13f127dabb46a3855b694f17b93681cb0c8a87292474a352074baa522463e91a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194480,
+    "korean": "양",
+    "new_hex": "a100000000000000",
+    "original_sha256": "40203fd3234e6acc9f3d5b1a83f38ed3d3d10de66d9aacf3e4777717e8463c55"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194488,
+    "korean": "스메스메",
+    "new_hex": "9068906800000000",
+    "original_sha256": "a5b8f326e593629e894f21c7a2fd3cd1d70a98a671e317b9dc88284a9840dbf1"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194496,
+    "korean": "가세키",
+    "new_hex": "4085d10000000000",
+    "original_sha256": "d84f9ff831891e5655a92b4c2117969cd504cedfa470cc142b2f16ae3bf96236"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194504,
+    "korean": "야부타",
+    "new_hex": "a079fe0000000000",
+    "original_sha256": "a438bafee4eb96ab86e49ae5399b2bac0735de0873d8ef35e57800332f8c9d60"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194512,
+    "korean": "노무라",
+    "new_hex": "506a590000000000",
+    "original_sha256": "16e06235b2b0bec12abc7ae5d996fed7db4f49d3222282eace485351dfdc9ca0"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194520,
+    "korean": "시라키",
+    "new_hex": "9259d10000000000",
+    "original_sha256": "1ae76dbbf939cb6bc1ba7ad40a856eec642d19fe2c9a74eed25d019fe9d9ea56"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194528,
+    "korean": "곤살레스",
+    "new_hex": "45825c9000000000",
+    "original_sha256": "605e5c7a958de7efb3dc5356d8719e7bcb654b1ebc75251f82b6779f4160644f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194536,
+    "korean": "도조",
+    "new_hex": "98b6000000000000",
+    "original_sha256": "06e4c57292f993ebb2ec596dc6d92703f5ff3138d223b9698030da4da2e51587"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194544,
+    "korean": "하세베",
+    "new_hex": "e185760000000000",
+    "original_sha256": "dc89a5176db67ff43bda865f1759e9cfe1fa22402bcbfba549e63c42eaa7baa4"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194552,
+    "korean": "야스오카",
+    "new_hex": "a090a6c400000000",
+    "original_sha256": "463268f298a6d62572b578da011d7d42a74b45552ccb32a32dce3f54fea8c056"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194560,
+    "korean": "이나가키",
+    "new_hex": "b14c40d100000000",
+    "original_sha256": "407ec58a7336a915338227d0d84eea3bda62a4d7a87abdc3ad6c84b696bc32c2"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194568,
+    "korean": "제이크",
+    "new_hex": "f8b1ce0000000000",
+    "original_sha256": "e2565edb0b4b146c4db052094d92968c4f3329800218d0ad324bc7244dcec9b1"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194576,
+    "korean": "아리가",
+    "new_hex": "9765400000000000",
+    "original_sha256": "25a1400a9bbc3b3e1c32b1eaa66a8c6c074cb6be477a301e3661c61a9a2f0f33"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194584,
+    "korean": "워런",
+    "new_hex": "ac5b000000000000",
+    "original_sha256": "f5289e0a723a07e8ac0db458872f04c8ec94540dd20075ae5944273e89837202"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194592,
+    "korean": "미쓰이시",
+    "new_hex": "6c95b19200000000",
+    "original_sha256": "07ce4310a75aae77e38c694890d7903441d45f57a308991c167557501d76e505"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194600,
+    "korean": "길버트",
+    "new_hex": "4a73d60000000000",
+    "original_sha256": "9696b93955e0a36a8a92d69945ed12f0f416cb533b87a4520b2b2c74ad643572"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194608,
+    "korean": "오바야시",
+    "new_hex": "a670a09200000000",
+    "original_sha256": "84ffa8b6a60de44b779f65dc3a545ac138f25e18340906ddeb11593dcac28893"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194616,
+    "korean": "무로이",
+    "new_hex": "6a5db10000000000",
+    "original_sha256": "9ee71f04e678ce5f8120271278cf12b900fd091cdea8aba8cc9340dfc279fd1d"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194624,
+    "korean": "마이어",
+    "new_hex": "66b1a20000000000",
+    "original_sha256": "0898188920242f739d3b609b0fc9574199703528897eb496c5688d029a128e4b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194632,
+    "korean": "실버",
+    "new_hex": "cf73000000000000",
+    "original_sha256": "02709ded66daef7f80882e9857128a95a85dec53572a53508dc143332a924801"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194640,
+    "korean": "다자와",
+    "new_hex": "53b3a80000000000",
+    "original_sha256": "1941a2898517fc94db886e63143e5cacc6cf8a86218d0a48567cedd61048faef"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194648,
+    "korean": "바넷",
+    "new_hex": "704e000000000000",
+    "original_sha256": "1e6f78d707deffcdfd67e692da796a17a8c34974a4b486260a4a88efcac76cc8"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194656,
+    "korean": "나가누마",
+    "new_hex": "4c40516600000000",
+    "original_sha256": "317279d66766b2040b0d32316540546972cd1ccb4734c2c68c8873a76b9ae3ae"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194664,
+    "korean": "아키야마",
+    "new_hex": "97d1a06600000000",
+    "original_sha256": "fe1f8b3de7967a1a79d43d28c1a57d1b8fc68161caf42a0b34bea3ae2de329d7"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194672,
+    "korean": "뮐러",
+    "new_hex": "6b5a000000000000",
+    "original_sha256": "b2c0a7ba5871bc0e9ea2feb4832c04d5daecc877e01a2af88947b3263b4720b1"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194680,
+    "korean": "이마이치",
+    "new_hex": "b166b1c200000000",
+    "original_sha256": "ad3078b421b42864ba460dce5d8d415d36b00d204920bcfc3b5dc3c58d827d90"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194688,
+    "korean": "스미스",
+    "new_hex": "906c900000000000",
+    "original_sha256": "3b11c0a4181a4956f948f34139974efc1064bea88bdcb317cf195a3944b99560"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194696,
+    "korean": "로베르토",
+    "new_hex": "5d7663d500000000",
+    "original_sha256": "da009ba22a47e5ab2073cbb861fb01ae8fc2b55c11125cf66cac90084485480c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194704,
+    "korean": "구로사카",
+    "new_hex": "475d80c400000000",
+    "original_sha256": "2313e086b69a9f128a420d9c59781ea095afe798f44482c66ee19a26d47a2f21"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194712,
+    "korean": "모토쿠라",
+    "new_hex": "69d5cd5900000000",
+    "original_sha256": "52993d49dd272f91422725b01a1f2784855512a904083ad741f63b962a0e03f5"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194720,
+    "korean": "크로켓",
+    "new_hex": "ce5dc80000000000",
+    "original_sha256": "6420387f2db8f9498933f1afd6256c2e19d9ecfe375350ceb6a5fe611a2c6e0b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194728,
+    "korean": "다테니",
+    "new_hex": "53d4520000000000",
+    "original_sha256": "3a5205326b12a02ec9e76a2994b5f6ba883b31620df6966c54b860e2ccac4b72"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194736,
+    "korean": "쓰쓰미",
+    "new_hex": "95956c0000000000",
+    "original_sha256": "f7e22eb92e039c8e78c619d0fc65c03c01790284be89b145fad4a29cd55e5c2d"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194744,
+    "korean": "세키구치",
+    "new_hex": "85d147c200000000",
+    "original_sha256": "3c392c21d99c869469c141462dc255d0ed9c603b28676c95071e04f6752645f2"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194752,
+    "korean": "시바타",
+    "new_hex": "9270fe0000000000",
+    "original_sha256": "acfad130055d5b53e2b004b6ef413d7d7c5aeb8f13f269a31d4e946c2c6dd595"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194760,
+    "korean": "노자와",
+    "new_hex": "50b3a80000000000",
+    "original_sha256": "9869241c0b741bd249411ee4f8a196ea30bf26aa428eea68cbed8a5e7f322a0a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194768,
+    "korean": "나이토",
+    "new_hex": "4cb1d50000000000",
+    "original_sha256": "aef209061980c0cf330983c07cf226bd40bb3384f2c48904cc9a3257756a9410"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194776,
+    "korean": "나카무라",
+    "new_hex": "4cc46a5900000000",
+    "original_sha256": "545ac9844178cd3a733d4f6580c8c66498a931e6ad1f0de6397fc9eaca534411"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194784,
+    "korean": "후지타",
+    "new_hex": "eab8fe0000000000",
+    "original_sha256": "de6d9ed8793c2e10f9ca9406ff5220a757e975d444d0688a32aadc2ffbff873f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194792,
+    "korean": "미타무라",
+    "new_hex": "6cfe6a5900000000",
+    "original_sha256": "720127332a80092e24bad276274713fa0ee7c25a47949be07b3c48d634823949"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194800,
+    "korean": "핫토리",
+    "new_hex": "e2d5650000000000",
+    "original_sha256": "acfd763aa123504bce249437600d76e2c6b47a990ab3f4e5cb98cb5e38bc0b81"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194808,
+    "korean": "쓰노다",
+    "new_hex": "9550530000000000",
+    "original_sha256": "f19f2985b223e832e44eea023587666dfe3c98bb2b258b94e3f1797c3ea6505e"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194816,
+    "korean": "야마쿠라",
+    "new_hex": "a066cd5900000000",
+    "original_sha256": "ab4a7880c8a105645a6f07fc4b486c1d5156dbaedfee98e8c8eb66be8cbc16bd"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194824,
+    "korean": "가타오카",
+    "new_hex": "40fea6c400000000",
+    "original_sha256": "ae2b25fe7cfae5f354d591f7162f94f6618377fd281d675cebd33da986d9cb56"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194832,
+    "korean": "다카하시",
+    "new_hex": "53c4e19200000000",
+    "original_sha256": "79905c0d6ec1f8cd53124e6e6bd1033ba0ba297c5757ecf62f42a1f1689c9f3f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194840,
+    "korean": "데즈카",
+    "new_hex": "55b7c40000000000",
+    "original_sha256": "505cb6c1b465eb5174af62bad2d259674d662d63fbb4855721607021bf75815f"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194848,
+    "korean": "와다",
+    "new_hex": "a853000000000000",
+    "original_sha256": "5c7a1a4bbaf67d8d7f988a2a7077bd4a35440e6733ebe991397ad6a465b52e15"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194856,
+    "korean": "구로카와",
+    "new_hex": "475dc4a800000000",
+    "original_sha256": "719c67e56c231824c2257c807ed86d3f05e7c3a0bc4d0351a7be643c0faa3027"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194864,
+    "korean": "모리나가",
+    "new_hex": "69654c4000000000",
+    "original_sha256": "89e53888ebea272b27db9a0ea57b6bcc90b85adb1b7aa93fcf258af39835b5e5"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194872,
+    "korean": "이시하라",
+    "new_hex": "b192e15900000000",
+    "original_sha256": "932ae66411cf288c1aeb265a298131f910bbc2fe7caac2dee7e545031d151f7a"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194880,
+    "korean": "야부키",
+    "new_hex": "a079d10000000000",
+    "original_sha256": "67c2987c46f365aeae3cdd564715b7c68b956597e20e3eb8e5c7293a87234e16"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194888,
+    "korean": "오가와",
+    "new_hex": "a640a80000000000",
+    "original_sha256": "0c171a4f5db991105d9ba5147c3594c561f7e6f61a55f7c9ff5e17bc78c53270"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194896,
+    "korean": "하야세",
+    "new_hex": "e1a0850000000000",
+    "original_sha256": "918845595d907966992738d77af7fdfc18fd8d7f8e7fb28c782d99f627b9de1b"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194904,
+    "korean": "사카이",
+    "new_hex": "80c4b10000000000",
+    "original_sha256": "7e211229f056220546329fe6bb2c0e7d9911d1d21559adcd820fef3021dae3f0"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194912,
+    "korean": "와카바야시",
+    "new_hex": "a8c470a092000000",
+    "original_sha256": "eee80b8d99679f9558f534c40883ebcc3fea91c8f02f8cad4f50f8b8259f79dc"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194920,
+    "korean": "쓰지",
+    "new_hex": "95b8000000000000",
+    "original_sha256": "012e69f6912e1a217e59111a05dab369d21e0e14a939154cba6be5df43aa93ff"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194928,
+    "korean": "나오치루",
+    "new_hex": "4ca6c26100000000",
+    "original_sha256": "15456584117383a6610a69a7a1d51cec8e44097e0bdc832fa60b399027b63c5e"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194936,
+    "korean": "다케이",
+    "new_hex": "53c6b10000000000",
+    "original_sha256": "e81b5406ffec21714abbb47b4521788c02ce03b4033e8c2f04e8476324eda62c"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194944,
+    "korean": "스즈토",
+    "new_hex": "90b7d50000000000",
+    "original_sha256": "2283439abd86582f037179caaf1dac121ea2fccb11a69c35988ceb832307dbab"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194952,
+    "korean": "휴가",
+    "new_hex": "eb40000000000000",
+    "original_sha256": "9db5bbe0822fb80e266bc255a4997410e6e167669c2df83091b0d12004a00525"
+  },
+  {
+    "file": "SYSTEM.BIN",
+    "offset": 1194960,
+    "korean": "미야후민",
+    "new_hex": "6ca0ea6d00000000",
+    "original_sha256": "24f2b49165fc0e07c0959fb912431164183645946633b6321d75639ab0938dd1"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501216,
+    "korean": "드라이브",
+    "new_hex": "5659b17b00000000",
+    "original_sha256": "9f80e2966fdefc95529951e8e96e08f7d9d1759ede625cf7a69175735da74ec0"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501224,
+    "korean": "니어핀",
+    "new_hex": "52a2e00000000000",
+    "original_sha256": "76e52fb1be325125e76ef7ce68e6595fe95610efcd436ba93c41c3cc9d092427"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501440,
+    "korean": "페어웨이 유지",
+    "new_hex": "daa2aeb10fb0b800",
+    "original_sha256": "7fe54380652a3129a5c745d26f6017a38919d71ef0050ca86fb93cd3d2d55403"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501448,
+    "korean": "파 온 유지",
+    "new_hex": "d80fa70fb0b80000",
+    "original_sha256": "f6deb1cf6cfa254049e962b314f64b02975fbb3090d8d6da8b2f775710a8fb5a"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501456,
+    "korean": "원더풀",
+    "new_hex": "ad54dc0000000000",
+    "original_sha256": "29a49fec0d973bc9df4f57d69a0e5e9f3d540d6b0f35c860d19304c0bc8f8c56"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501464,
+    "korean": "미러클!",
+    "new_hex": "6c5ad00100000000",
+    "original_sha256": "c9e0309643646cd37099ef6b15c89561972a4b2e66cf9a1584d4884fbbd19aa6"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501472,
+    "korean": "핀 샷!",
+    "new_hex": "e00f840100000000",
+    "original_sha256": "aadcd79805f93bab5ed194721f3a7b0fb90adb3ffab0cf631ef63c97712626e3"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501480,
+    "korean": "파",
+    "new_hex": "d800000000000000",
+    "original_sha256": "e571b2425dc51d0321ede22292ce8a156049594a9f1520f35519113293a5c0e1"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501488,
+    "korean": "버디!",
+    "new_hex": "7357010000000000",
+    "original_sha256": "95b5f942dcaa29a39e3c95dc8edd60f78b2036b811367ce6304a026d837bd9d8"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501496,
+    "korean": "이글!",
+    "new_hex": "b148010000000000",
+    "original_sha256": "513fcda091b663f7a2fc8a4b6768dac2856e9368c9d0a112b6320f78fda666e4"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501504,
+    "korean": "홀인원!",
+    "new_hex": "e7b2ad01000000000000000000000000",
+    "original_sha256": "9a736173d872857f104ca56e68336d09c226ebf491b57bd54cff1cee4b498b7d"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501520,
+    "korean": "앨버트로스!",
+    "new_hex": "9a73d65d90010000",
+    "original_sha256": "7f33bd5878c4ad9060e9007bdb4cd20a0ad1bdd516f59534617d876ad6cd37dd"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501528,
+    "korean": "칩인",
+    "new_hex": "c3b2000000000000",
+    "original_sha256": "dbb4cc6c82986cfa236474549810ce6a6c5605924df866d2cc1e932f16d7ef3f"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501536,
+    "korean": "칩인!",
+    "new_hex": "c3b2010000000000",
+    "original_sha256": "d852aef6040810f126cd0a5f48415e753bb104bd41026997f4e918114b62ed0c"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501544,
+    "korean": "롱 퍼트",
+    "new_hex": "600fd9d600000000",
+    "original_sha256": "a7d899315efafec146d3824fb175a3888474fa1a9ca619101c4969f0311cb769"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501552,
+    "korean": "물수 성공!",
+    "new_hex": "8f9f0fafbf010000",
+    "original_sha256": "d63e56f87eeef184a7cfcb5f277a5ddc18decdfc38ccb2124d6467476bf42010"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501560,
+    "korean": "물수 실패",
+    "new_hex": "8f9f0fcfdf000000",
+    "original_sha256": "2510502085bea70e57bdb925565b77917ca32c1742f8c84dbd1646c914257ca8"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501576,
+    "korean": "언플레이어블",
+    "new_hex": "a3dd5cb1a27c0000",
+    "original_sha256": "4169f393f56623e65a1e2f21c47319e7bca584529ef10576403fa052a2d15554"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501584,
+    "korean": "워터 해저드",
+    "new_hex": "acd30fe3b4560000",
+    "original_sha256": "0bc0ee24228421417f3f0c3a8f6df59738787451e683aba8a12a6f3b2bdcc7c9"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501592,
+    "korean": "벙커",
+    "new_hex": "75c5000000000000",
+    "original_sha256": "85dd3226b5ad1eb46b8cf1d4e2aac273362d2e6277ad57bbb935294b6c1cd913"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501632,
+    "korean": "페어웨이 유지!",
+    "new_hex": "daa2aeb10fb0b8010000000000000000",
+    "original_sha256": "46edbaf0bd3a8dadd8c06171bee9b570361c5a05b7dce2f5d4c336af2638fd36"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501648,
+    "korean": "파 온 유지!",
+    "new_hex": "d80fa70fb0b801000000000000000000",
+    "original_sha256": "dc152311f914160c5b356bf3abb71a38f1f88ab5daa2f445019e1653b12a15ec"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501664,
+    "korean": "언더 파 온!",
+    "new_hex": "a3540fd80fa701000000000000000000",
+    "original_sha256": "1817c8530125ea9371e50514fadb933a9fe6e816e57e235cf8f270ce40b58ba0"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501680,
+    "korean": "파!",
+    "new_hex": "d801000000000000",
+    "original_sha256": "255da195a185473241772ab6a03733ef5bb3698be8e44d7c387c846ffd55d345"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501688,
+    "korean": "롱 퍼트!",
+    "new_hex": "600fd9d601000000",
+    "original_sha256": "76c8a9a344c33285f03fe9053a07351c1fdd03e12e7d5ec6a9e5693bfebf3c0a"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501696,
+    "korean": "워터 해저드",
+    "new_hex": "acd30fe3b45600000000000000000000",
+    "original_sha256": "d22562b807b0e3020ef432fb4d3caae4c695789a08304663338631254c3b52b1"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501712,
+    "korean": "물수 횟수!",
+    "new_hex": "8f9f0fe99f010000",
+    "original_sha256": "9def71f892eb7f981a171493f08cbdb3710aa2dd8c204c78b956a1a2052801de"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501720,
+    "korean": "물수 실패...",
+    "new_hex": "8f9f0fcfdf0707070000000000000000",
+    "original_sha256": "f4e705d48f2404c540ac5db32c17c5daa4e6c27d706c7020d3ae7fed8bf01973"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501736,
+    "korean": "감쌌다!",
+    "new_hex": "4194530100000000",
+    "original_sha256": "b853ba7c8ff4926af9b633abd6f1d1385478609bec8505ff8e6c0b21fd0d568a"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501744,
+    "korean": "라이징 볼!",
+    "new_hex": "59b1ba0f780100000000000000000000",
+    "original_sha256": "7ce2ec3d70e2d11119a94897f14ea63378bb9f46553fbbb344c3e8f8ce9a6a70"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501760,
+    "korean": "호밍!",
+    "new_hex": "e56e010000000000",
+    "original_sha256": "395c046e570c617b72221deb833a6f0525d979033fa8ea64e312116f3d51eb35"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501768,
+    "korean": "빙글 샷!",
+    "new_hex": "7e480f84010000000000000000000000",
+    "original_sha256": "6c3f7f36b8368a6c1ffc66baafeeeb4b455d56907528ae4e91c4ea440f4e27d8"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1501784,
+    "korean": "빙글 퍼트!",
+    "new_hex": "7e480fd9d60100000000000000000000",
+    "original_sha256": "3229f5b849385d4e48e16e556b6590b173f56d237b383aef877ea4e19dbf96b2"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502696,
+    "korean": "페어웨이",
+    "new_hex": "daa2aeb100000000",
+    "original_sha256": "26abb5bb641661657781fafe5076efbba44f638b7f690a70170996e5c9aebce4"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502704,
+    "korean": "파 온",
+    "new_hex": "d80fa70000000000",
+    "original_sha256": "55190957851e347ae4edcf76cdc665e92f25403b9d355244a3e12a8ba4d34d51"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502712,
+    "korean": "언더 파 온",
+    "new_hex": "a3540fd80fa700000000000000000000",
+    "original_sha256": "89992ba3e5fe5b1b6722e4b052e4dc6f8c976406691e30106894ab588f7df796"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502728,
+    "korean": "홀 최고",
+    "new_hex": "e70ff54400000000",
+    "original_sha256": "a7d44848c7e1e4b82bbd77236ef10b9e37ad6f091922935f26d170a58639cc06"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502832,
+    "korean": "나무에 맞아 +2타",
+    "new_hex": "4c6aa40ff0970f0412fe000000000000",
+    "original_sha256": "b8ffc15ee02767268773f76572fe6fabc22b623bc372ec38bfbd1deea475152d"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502848,
+    "korean": "러프에 들어 +2타",
+    "new_hex": "5af7a40feea20f0412fe000000000000",
+    "original_sha256": "54c496aba06549fe3c921abbf094c454e997ddade2e559c42d6edbf824c6ad04"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502864,
+    "korean": "벙커에 들어 +2타",
+    "new_hex": "75c5a40feea20f0412fe000000000000",
+    "original_sha256": "3d5a931d84d17bf78e5c7f4ccc53a051df3f2027ad3d68a50ec1af0b3df4af4c"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502888,
+    "korean": " 획득",
+    "new_hex": "0ff9ed0000000000",
+    "original_sha256": "08ce68edeac4e10538549f624e6adde6cf9aa8226a663263641cf83b8044a83e"
+  },
+  {
+    "file": "GAME.BIN",
+    "offset": 1502896,
+    "korean": "코스 공략도 상승",
+    "new_hex": "c9900fbf96980ff2f400000000000000",
+    "original_sha256": "edae2cb76be5239e890e364f740dc4ce1ff22119450df989ebe4398e87d93dd5"
+  }
+]

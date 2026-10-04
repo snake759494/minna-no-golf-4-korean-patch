@@ -1,0 +1,9 @@
+*.iso
+*.xdelta
+*.bin
+*.raw
+*.XB
+*.ttf
+*.exe
+__pycache__/
+*.pyc
