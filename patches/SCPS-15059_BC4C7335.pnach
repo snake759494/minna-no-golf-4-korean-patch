@@ -1,0 +1,24 @@
+gametitle=Minna no Golf 4 (Japan v2.00 / Korean patch) [SCPS-15059]
+// Based on ElHecht's BC53B2E5 widescreen patch from PCSX2/pcsx2_patches.
+// BC4C7335 adaptation: menu and projection data addresses are 0x80 earlier.
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht; BC4C7335 adaptation by OpenAI Codex
+description=16:9 3D view for Japan v2.00 and its Korean patch. 2D HUD is stretched.
+
+// MENU.BIN only: preserve overlay safety when GAME.BIN replaces the same RAM.
+patch=1,EE,E002010C,extended,0048DD14
+patch=1,EE,2048DCF0,extended,3C0143F0
+patch=1,EE,2048DD14,extended,AC81010C
+
+// Gameplay camera FOV. Cover both active camera paths.
+patch=1,EE,2015A868,extended,3C023C39
+patch=1,EE,2015A86C,extended,3442A4EC
+patch=1,EE,2015A8D4,extended,3C023C39
+patch=1,EE,2015A8D8,extended,3442A4EC
+
+// Projection viewport half-height: 224 -> 298.6666.
+// Only replace the expected 224.0 value, never unrelated overlay data.
+patch=1,EE,E0014360,extended,0044C2E2
+patch=1,EE,2044C2E0,extended,43955553

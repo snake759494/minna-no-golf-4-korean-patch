@@ -18,5 +18,12 @@
     "size": 93555473,
     "sha256": "8c7881464d49db9fd6facdedc7e7f94d5d97570860143ad79e4a244376f6dd0a"
   },
-  "roundtrip_verified": true
+  "roundtrip_verified": true,
+  "widescreen": {
+    "name": "SCPS-15059_BC4C7335.pnach",
+    "crc": "BC4C7335",
+    "size": 998,
+    "sha256": "3800b698aa5e492436da78758a2496bae64703f75e6ff71bb6a85fe2a2f12ce1",
+    "required_release_asset": true
+  }
 }

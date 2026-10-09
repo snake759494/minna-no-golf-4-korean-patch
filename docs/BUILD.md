@@ -19,3 +19,5 @@ python -X utf8 work/build.py
 `fix_mti_layout.py`는 이번 수정 대상 MTI 84종의 내부 이미지와 밉맵 배치를 교정합니다.
 `build.py`는 한글 글꼴·문자열·압축 묶음을 삽입하고 확장 파일의 ISO 및 게임 내부 주소를 갱신합니다.
 검증 기록에 명시된 전체 플레이 미검증 범위를 확인하세요.
+
+릴리즈 준비 시 tools/prepare_widescreen_release.py에 --notes (릴리즈 노트 경로)와 --assets (첨부 파일 폴더)를 지정합니다. CRC 호환성을 확인한 후 xdelta와 pnach를 모두 업로드합니다. 세부 규칙은 AGENTS.md를 따릅니다.
