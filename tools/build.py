@@ -28,11 +28,13 @@ def glyph_pack(b):
     assert glyph_unpack(out)==b
     return bytes(out)
 def glyph_render(c,font):
+    """원본 글꼴처럼 2픽셀 외곽선(값 1)과 굵은 획(값 2·3)으로 그린다."""
     im=Image.new('L',(24,22));d=ImageDraw.Draw(im)
-    box=d.textbbox((0,0),c,font=font,stroke_width=1)
+    box=d.textbbox((0,0),c,font=font)
     x=(24-(box[2]-box[0]))//2-box[0];y=(22-(box[3]-box[1]))//2-box[1]
-    d.text((x,y),c,font=font,fill=255,stroke_width=1,stroke_fill=85)
-    vals=[min(3,(v+42)//85) for v in im.tobytes()]
+    d.text((x,y),c,font=font,fill=255)
+    edge=im.point(lambda v:255 if v>=96 else 0).filter(ImageFilter.MaxFilter(5))
+    vals=[3 if v>=170 else 2 if v>=96 else 1 if e or v>=40 else 0 for v,e in zip(im.tobytes(),edge.tobytes())]
     return bytes(sum(vals[i+j]<<(6-2*j) for j in range(4)) for i in range(0,len(vals),4))
 def sjis(idx):
     row,col=divmod(idx,94);lead=row//2+0x81
@@ -91,7 +93,7 @@ def main():
     import compact_ko
     compact_records=compact_ko.patch(binaries)
     print('경기용 고정 글자판 번역',len(compact_records),flush=True)
-    font=ImageFont.truetype(str(ROOT/'NanumSquareNeo-cBd.ttf'),20)
+    font=ImageFont.truetype(str(ROOT/'NanumSquareNeo-cBd.ttf'),18)
     for c,i in zip(hangul,available):glyphs[i]=glyph_pack(glyph_render(c,font))
     newoffs=[0]
     for g in glyphs:newoffs.append(newoffs[-1]+len(g))

@@ -49,7 +49,7 @@ def apply(label,column,whole,T):
  column(550,0,416,88,24,['대회 선택','내용 표시','돌아가기'],outline=0)
  column(550,96,416,80,24,['결정','상품 표시'],outline=0)
  label(550,(256,442,371,501),'제한 대회',outline=0)
- label(598,(64,0,128,40),'파직!',size=20,outline=1)
+ label(598,(64,0,128,40),'짝짝!',size=20,outline=1)
  label(598,(0,32,48,80),'아~',size=20,outline=1)
  label(598,(0,88,128,126),'아~아',size=20,outline=1)
  # 전국 대회는 원본 서비스 안내를 한국어로 충실하게 옮긴다.

@@ -51,4 +51,4 @@ def apply_textures(label,T):
   t=T(i);cell=t.im.width//16
   for slot,s in mapping().items():
    x=slot%16*cell;y=slot//16*cell
-   label(i,(x,y,x+cell,y+cell),s,size=round(cell*.70),fg=(255,255,255),outline=0,inkbox=False,font_path=W.parent/'NanumSquareNeo-bRg.ttf')
+   label(i,(x,y,x+cell,y+cell),s,size=round(cell*.82),fg=(255,255,255),outline=0,inkbox=False,font_path=W.parent/'NanumSquareNeo-cBd.ttf')

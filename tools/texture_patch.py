@@ -200,6 +200,16 @@ class Texture:
   a[:,:3]*=a[:,3:4]/255;p[:,:3]*=p[:,3:4]/255;a[:,3]*=1.4;p[:,3]*=1.4
   self.idx[:]=cKDTree(p).query(a)[1].reshape(self.idx.shape)
   self.regions=[dict(box=[0,0,self.im.width,self.im.height],text=text)]
+ def erase_ink(self,box):
+  """상자에 걸친 원본 글자 덩어리를 상자 밖 테두리까지 투명색으로 지운다."""
+  from scipy import ndimage
+  bg=int(np.argmin(self.pal[:,3]));ink=self.pal[self.orig][:,:,3]>0
+  lab,_=ndimage.label(ink,structure=np.ones((3,3)))
+  x,y,xx,yy=box;ids=set(np.unique(lab[y:yy,x:xx]))-{0}
+  m=np.isin(lab,list(ids))
+  if not m.any():return
+  self.idx[m]=bg;ys,xs=np.where(m)
+  self.regions.append(dict(box=[int(xs.min()),int(ys.min()),int(xs.max())+1,int(ys.max())+1],text='원본 글자 잔상 제거'))
  def clear_panel(self,box):
   x,y,xx,yy=box;p=self.pal[self.idx].astype(float)
   left=p[y:yy,max(0,x-4):x].mean(1);right=p[y:yy,xx:min(self.im.width,xx+4)].mean(1)
