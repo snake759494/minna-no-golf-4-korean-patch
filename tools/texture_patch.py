@@ -49,7 +49,7 @@ class Texture:
   x0,y0,x1,y1=map(int,box);assert 0<=x0<x1<=self.im.width and 0<=y0<y1<=self.im.height,(self.id,box)
   old=self.idx[y0:y1,x0:x1];rgba=self.pal[old];h,w=old.shape
   cachedir=W/'render_cache';cachedir.mkdir(exist_ok=True)
-  settings=(box,s,size,align,bevel,fg,bg,outline,inkbox,'uv-fit-v5')
+  settings=(box,s,size,align,bevel,fg,bg,outline,inkbox,'uv-fit-v7')
   if font_path:settings+=(str(font_path),)
   if outline_color:settings+=(tuple(outline_color),)
   cachekey=hashlib.sha256(self.pal.tobytes()+old.tobytes()+repr(settings).encode()).hexdigest()
@@ -73,8 +73,9 @@ class Texture:
   gh=by1-by0;gw=bx1-bx0;fs=size or max(8,round(gh*.91));scale=4
   font=ImageFont.truetype(str(font_path or FONT),fs*scale)
   border=(max(1,round(gh*.065)) if bevel or transparent and len(self.pal)>16 else 0) if outline is None else outline
-  bb=font.getbbox(s);mw=bb[2]-bb[0];mh=bb[3]-bb[1]
-  m=Image.new('L',(mw+scale*2,mh+scale*2));ImageDraw.Draw(m).text((scale-bb[0],scale-bb[1]),s,font=font,fill=255,stroke_width=1)
+  # 원본 이미지 글자처럼 굵게: 큰 글자는 획을 약 1픽셀 두껍게 그린다.
+  heavy=2 if gh>=15 else 1;bb=font.getbbox(s,stroke_width=heavy);mw=bb[2]-bb[0];mh=bb[3]-bb[1]
+  m=Image.new('L',(mw+scale*2,mh+scale*2));ImageDraw.Draw(m).text((scale-bb[0],scale-bb[1]),s,font=font,fill=255,stroke_width=heavy)
   targeth=max(3,gh-2*border) if size is None else min(gh-2*border,max(5,round(m.height/scale)))
   targetw=min(gw-2*border if inkbox else w-2*border-2,max(2,round(m.width/m.height*targeth)))
   targetw=max(2,targetw)

@@ -46,6 +46,10 @@ def apply(label,column,whole,T):
  t=T(656);done=t.idx.copy()
  for box,s in fragments:t.erase_ink(box)
  for (x,y,xx,yy),s in fragments:t.idx[y:yy,x:xx]=done[y:yy,x:xx]
+ # 경기 중 스코어 배너: 상자 밖 원본 글자 끝부분 잔상 제거.
+ t=T(655);done=t.idx.copy();boxes=[(0,0,132,32),(0,32,132,64),(0,64,132,96),(256,64,336,96),(140,32,216,64),(476,0,504,32)]
+ for b in boxes:t.erase_ink(b)
+ for x,y,xx,yy in boxes:t.idx[y:yy,x:xx]=done[y:yy,x:xx]
  # 메뉴 및 시상식의 같은 형식도 함께 수정.
  for i in [93,824]:
   t=T(i)
