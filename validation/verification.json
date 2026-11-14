@@ -1,7 +1,7 @@
 {
   "status": "정적 검증 통과, 실행 검증 전",
   "source_sha256": "1516b69c868557520e7c8bc2f73ee44cd868a56245a0dcae02fbea820c48b32f",
-  "target_sha256": "65a087563ae8ef200c960b2b776ddb97a372d2b9e86ae2f55f9fa222db788b27",
+  "target_sha256": "1f9e82f31e3be755f2be147e8d498efc6abfe9e0b28abb618f5af266429d0a99",
   "translated_strings": 1138,
   "compact_strings": 245,
   "hangul_glyphs": 675,
@@ -776,713 +776,113 @@
       "lba": 1499216,
       "size": 674032
     },
-    "/CRS/SSN0/HOL0103.XB;1": {
-      "lba": 1499546,
-      "size": 737812
-    },
-    "/CRS/SSN0/HOL0105.XB;1": {
-      "lba": 1499907,
-      "size": 861586
-    },
-    "/CRS/SSN0/HOL0108.XB;1": {
-      "lba": 1500328,
-      "size": 818990
-    },
-    "/CRS/SSN0/HOL0109.XB;1": {
-      "lba": 1500728,
-      "size": 866832
-    },
-    "/CRS/SSN0/HOL0111.XB;1": {
-      "lba": 1501152,
-      "size": 851940
-    },
-    "/CRS/SSN0/HOL0112.XB;1": {
-      "lba": 1501568,
-      "size": 767604
-    },
-    "/CRS/SSN0/HOL0113.XB;1": {
-      "lba": 1501943,
-      "size": 734254
-    },
-    "/CRS/SSN0/HOL0116.XB;1": {
-      "lba": 1502302,
-      "size": 775984
-    },
-    "/CRS/SSN0/HOL0208.XB;1": {
-      "lba": 1502681,
-      "size": 614842
-    },
-    "/CRS/SSN0/HOL0417.XB;1": {
-      "lba": 1502982,
-      "size": 711334
-    },
-    "/CRS/SSN0/HOL0418.XB;1": {
-      "lba": 1503330,
-      "size": 796200
-    },
-    "/CRS/SSN0/HOL0716.XB;1": {
-      "lba": 1503719,
-      "size": 1074628
-    },
-    "/CRS/SSN0/HOL0717.XB;1": {
-      "lba": 1504244,
-      "size": 1015692
-    },
-    "/CRS/SSN0/HOL0718.XB;1": {
-      "lba": 1504740,
-      "size": 1033896
-    },
-    "/CRS/SSN0/HOL0801.XB;1": {
-      "lba": 1505245,
-      "size": 1195104
-    },
-    "/CRS/SSN0/HOL0802.XB;1": {
-      "lba": 1505829,
-      "size": 911108
-    },
-    "/CRS/SSN0/HOL0803.XB;1": {
-      "lba": 1506274,
-      "size": 1076316
-    },
-    "/CRS/SSN0/HOL0804.XB;1": {
-      "lba": 1506800,
-      "size": 1114460
-    },
-    "/CRS/SSN0/HOL0806.XB;1": {
-      "lba": 1507345,
-      "size": 1032432
-    },
-    "/CRS/SSN0/HOL0809.XB;1": {
-      "lba": 1507850,
-      "size": 1139596
-    },
-    "/CRS/SSN0/HOL0812.XB;1": {
-      "lba": 1508407,
-      "size": 1067792
-    },
-    "/CRS/SSN0/HOL0815.XB;1": {
-      "lba": 1508929,
-      "size": 1246424
-    },
-    "/CRS/SSN0/HOL0817.XB;1": {
-      "lba": 1509538,
-      "size": 951826
-    },
-    "/CRS/SSN0/HOL0901.XB;1": {
-      "lba": 1510003,
-      "size": 962640
-    },
-    "/CRS/SSN0/HOL0903.XB;1": {
-      "lba": 1510474,
-      "size": 719618
-    },
-    "/CRS/SSN0/HOL0905.XB;1": {
-      "lba": 1510826,
-      "size": 844656
-    },
-    "/CRS/SSN0/HOL0906.XB;1": {
-      "lba": 1511239,
-      "size": 688876
-    },
-    "/CRS/SSN0/HOL0907.XB;1": {
-      "lba": 1511576,
-      "size": 797468
-    },
-    "/CRS/SSN0/HOL0908.XB;1": {
-      "lba": 1511966,
-      "size": 815180
-    },
-    "/CRS/SSN0/HOL0911.XB;1": {
-      "lba": 1512365,
-      "size": 709800
-    },
-    "/CRS/SSN0/HOL0913.XB;1": {
-      "lba": 1512712,
-      "size": 731816
-    },
-    "/CRS/SSN0/HOL0915.XB;1": {
-      "lba": 1513070,
-      "size": 719832
-    },
-    "/CRS/SSN0/HOL0916.XB;1": {
-      "lba": 1513422,
-      "size": 660814
-    },
-    "/CRS/SSN0/HOL1101.XB;1": {
-      "lba": 1513745,
-      "size": 776606
-    },
-    "/CRS/SSN0/HOL1103.XB;1": {
-      "lba": 1514125,
-      "size": 825138
-    },
-    "/CRS/SSN0/HOL1104.XB;1": {
-      "lba": 1514528,
-      "size": 750102
-    },
-    "/CRS/SSN0/HOL1105.XB;1": {
-      "lba": 1514895,
-      "size": 824762
-    },
-    "/CRS/SSN0/HOL1106.XB;1": {
-      "lba": 1515298,
-      "size": 775358
-    },
-    "/CRS/SSN0/HOL1108.XB;1": {
-      "lba": 1515677,
-      "size": 843810
-    },
-    "/CRS/SSN0/HOL1109.XB;1": {
-      "lba": 1516090,
-      "size": 829162
-    },
-    "/CRS/SSN0/HOL1110.XB;1": {
-      "lba": 1516495,
-      "size": 755774
-    },
-    "/CRS/SSN0/HOL1111.XB;1": {
-      "lba": 1516865,
-      "size": 861830
-    },
-    "/CRS/SSN0/HOL1112.XB;1": {
-      "lba": 1517286,
-      "size": 947782
-    },
-    "/CRS/SSN0/HOL1113.XB;1": {
-      "lba": 1517749,
-      "size": 777278
-    },
-    "/CRS/SSN0/HOL1114.XB;1": {
-      "lba": 1518129,
-      "size": 720630
-    },
-    "/CRS/SSN0/HOL1115.XB;1": {
-      "lba": 1518481,
-      "size": 996478
-    },
-    "/CRS/SSN0/HOL1116.XB;1": {
-      "lba": 1518968,
-      "size": 931555
-    },
-    "/CRS/SSN0/HOL1117.XB;1": {
-      "lba": 1519423,
-      "size": 874982
-    },
-    "/CRS/SSN0/HOL1118.XB;1": {
-      "lba": 1519851,
-      "size": 899538
-    },
-    "/CRS/SSN0/HOL1217.XB;1": {
-      "lba": 1520291,
-      "size": 649510
-    },
     "/CRS/SSN0/HOL1301.XB;1": {
-      "lba": 1520609,
-      "size": 900806
+      "lba": 1499546,
+      "size": 900682
     },
     "/CRS/SSN0/HOL1309.XB;1": {
-      "lba": 1521049,
-      "size": 837622
-    },
-    "/CRS/SSN1/HOL0103.XB;1": {
-      "lba": 1521458,
-      "size": 732724
-    },
-    "/CRS/SSN1/HOL0116.XB;1": {
-      "lba": 1521816,
-      "size": 784212
-    },
-    "/CRS/SSN1/HOL0208.XB;1": {
-      "lba": 1522199,
-      "size": 614842
-    },
-    "/CRS/SSN1/HOL0716.XB;1": {
-      "lba": 1522500,
-      "size": 1130772
-    },
-    "/CRS/SSN1/HOL0717.XB;1": {
-      "lba": 1523053,
-      "size": 1070284
-    },
-    "/CRS/SSN1/HOL0718.XB;1": {
-      "lba": 1523576,
-      "size": 1088492
-    },
-    "/CRS/SSN1/HOL0801.XB;1": {
-      "lba": 1524108,
-      "size": 1200560
-    },
-    "/CRS/SSN1/HOL0802.XB;1": {
-      "lba": 1524695,
-      "size": 916572
-    },
-    "/CRS/SSN1/HOL0803.XB;1": {
-      "lba": 1525143,
-      "size": 1081776
-    },
-    "/CRS/SSN1/HOL0804.XB;1": {
-      "lba": 1525672,
-      "size": 1119924
-    },
-    "/CRS/SSN1/HOL0806.XB;1": {
-      "lba": 1526219,
-      "size": 1037892
-    },
-    "/CRS/SSN1/HOL0809.XB;1": {
-      "lba": 1526726,
-      "size": 1145060
-    },
-    "/CRS/SSN1/HOL0812.XB;1": {
-      "lba": 1527286,
-      "size": 1067792
-    },
-    "/CRS/SSN1/HOL0815.XB;1": {
-      "lba": 1527808,
-      "size": 1246424
-    },
-    "/CRS/SSN1/HOL0817.XB;1": {
-      "lba": 1528417,
-      "size": 957286
-    },
-    "/CRS/SSN1/HOL0901.XB;1": {
-      "lba": 1528885,
-      "size": 962419
-    },
-    "/CRS/SSN1/HOL0903.XB;1": {
-      "lba": 1529355,
-      "size": 739303
-    },
-    "/CRS/SSN1/HOL0905.XB;1": {
-      "lba": 1529716,
-      "size": 840796
-    },
-    "/CRS/SSN1/HOL0906.XB;1": {
-      "lba": 1530127,
-      "size": 688648
-    },
-    "/CRS/SSN1/HOL0907.XB;1": {
-      "lba": 1530464,
-      "size": 797395
-    },
-    "/CRS/SSN1/HOL0908.XB;1": {
-      "lba": 1530854,
-      "size": 830964
-    },
-    "/CRS/SSN1/HOL0911.XB;1": {
-      "lba": 1531260,
-      "size": 709720
-    },
-    "/CRS/SSN1/HOL0913.XB;1": {
-      "lba": 1531607,
-      "size": 727984
-    },
-    "/CRS/SSN1/HOL0915.XB;1": {
-      "lba": 1531963,
-      "size": 715876
-    },
-    "/CRS/SSN1/HOL0916.XB;1": {
-      "lba": 1532313,
-      "size": 656854
-    },
-    "/CRS/SSN1/HOL1217.XB;1": {
-      "lba": 1532634,
-      "size": 651719
+      "lba": 1499986,
+      "size": 837498
     },
     "/CRS/SSN1/HOL1301.XB;1": {
-      "lba": 1532953,
-      "size": 922388
-    },
-    "/CRS/SSN1/HOL1309.XB;1": {
-      "lba": 1533404,
-      "size": 832426
-    },
-    "/CRS/SSN2/HOL0101.XB;1": {
-      "lba": 1533811,
-      "size": 894099
-    },
-    "/CRS/SSN2/HOL0103.XB;1": {
-      "lba": 1534248,
-      "size": 734820
-    },
-    "/CRS/SSN2/HOL0105.XB;1": {
-      "lba": 1534607,
-      "size": 853200
-    },
-    "/CRS/SSN2/HOL0106.XB;1": {
-      "lba": 1535024,
-      "size": 798936
-    },
-    "/CRS/SSN2/HOL0108.XB;1": {
-      "lba": 1535415,
-      "size": 829166
-    },
-    "/CRS/SSN2/HOL0109.XB;1": {
-      "lba": 1535820,
-      "size": 854660
-    },
-    "/CRS/SSN2/HOL0111.XB;1": {
-      "lba": 1536238,
-      "size": 839840
-    },
-    "/CRS/SSN2/HOL0114.XB;1": {
-      "lba": 1536649,
-      "size": 880490
-    },
-    "/CRS/SSN2/HOL0115.XB;1": {
-      "lba": 1537079,
-      "size": 793627
-    },
-    "/CRS/SSN2/HOL0117.XB;1": {
-      "lba": 1537467,
-      "size": 784780
-    },
-    "/CRS/SSN2/HOL0208.XB;1": {
-      "lba": 1537851,
-      "size": 614842
-    },
-    "/CRS/SSN2/HOL0306.XB;1": {
-      "lba": 1538152,
-      "size": 728884
-    },
-    "/CRS/SSN2/HOL0309.XB;1": {
-      "lba": 1538508,
-      "size": 823544
-    },
-    "/CRS/SSN2/HOL0315.XB;1": {
-      "lba": 1538911,
-      "size": 714556
-    },
-    "/CRS/SSN2/HOL0716.XB;1": {
-      "lba": 1539260,
-      "size": 1131416
-    },
-    "/CRS/SSN2/HOL0717.XB;1": {
-      "lba": 1539813,
-      "size": 1063564
-    },
-    "/CRS/SSN2/HOL0718.XB;1": {
-      "lba": 1540333,
-      "size": 1081640
-    },
-    "/CRS/SSN2/HOL0801.XB;1": {
-      "lba": 1540862,
-      "size": 1230884
-    },
-    "/CRS/SSN2/HOL0802.XB;1": {
-      "lba": 1541464,
-      "size": 957424
-    },
-    "/CRS/SSN2/HOL0803.XB;1": {
-      "lba": 1541932,
-      "size": 1122464
-    },
-    "/CRS/SSN2/HOL0804.XB;1": {
-      "lba": 1542481,
-      "size": 1116568
-    },
-    "/CRS/SSN2/HOL0806.XB;1": {
-      "lba": 1543027,
-      "size": 1078348
-    },
-    "/CRS/SSN2/HOL0809.XB;1": {
-      "lba": 1543554,
-      "size": 1146100
-    },
-    "/CRS/SSN2/HOL0812.XB;1": {
-      "lba": 1544114,
-      "size": 1064420
-    },
-    "/CRS/SSN2/HOL0815.XB;1": {
-      "lba": 1544634,
-      "size": 1243008
-    },
-    "/CRS/SSN2/HOL0817.XB;1": {
-      "lba": 1545241,
-      "size": 953922
-    },
-    "/CRS/SSN2/HOL1217.XB;1": {
-      "lba": 1545707,
-      "size": 657612
+      "lba": 1500395,
+      "size": 922264
     },
     "/CRS/SSN2/HOL1301.XB;1": {
-      "lba": 1546029,
-      "size": 888997
+      "lba": 1500846,
+      "size": 888873
     },
     "/CRS/SSN2/HOL1309.XB;1": {
-      "lba": 1546464,
-      "size": 827098
-    },
-    "/CRS/SSN3/HOL0103.XB;1": {
-      "lba": 1546868,
-      "size": 708700
-    },
-    "/CRS/SSN3/HOL0105.XB;1": {
-      "lba": 1547215,
-      "size": 823354
-    },
-    "/CRS/SSN3/HOL0108.XB;1": {
-      "lba": 1547618,
-      "size": 818006
-    },
-    "/CRS/SSN3/HOL0112.XB;1": {
-      "lba": 1548018,
-      "size": 738500
-    },
-    "/CRS/SSN3/HOL0113.XB;1": {
-      "lba": 1548379,
-      "size": 705198
-    },
-    "/CRS/SSN3/HOL0116.XB;1": {
-      "lba": 1548724,
-      "size": 746920
-    },
-    "/CRS/SSN3/HOL0208.XB;1": {
-      "lba": 1549089,
-      "size": 614842
-    },
-    "/CRS/SSN3/HOL0306.XB;1": {
-      "lba": 1549390,
-      "size": 723200
-    },
-    "/CRS/SSN3/HOL0309.XB;1": {
-      "lba": 1549744,
-      "size": 823328
-    },
-    "/CRS/SSN3/HOL0315.XB;1": {
-      "lba": 1550147,
-      "size": 730404
-    },
-    "/CRS/SSN3/HOL0417.XB;1": {
-      "lba": 1550504,
-      "size": 711514
-    },
-    "/CRS/SSN3/HOL0418.XB;1": {
-      "lba": 1550852,
-      "size": 796376
-    },
-    "/CRS/SSN3/HOL0716.XB;1": {
-      "lba": 1551241,
-      "size": 1111012
-    },
-    "/CRS/SSN3/HOL0717.XB;1": {
-      "lba": 1551784,
-      "size": 1043276
-    },
-    "/CRS/SSN3/HOL0718.XB;1": {
-      "lba": 1552294,
-      "size": 1061344
-    },
-    "/CRS/SSN3/HOL0801.XB;1": {
-      "lba": 1552813,
-      "size": 1225424
-    },
-    "/CRS/SSN3/HOL0802.XB;1": {
-      "lba": 1553412,
-      "size": 951960
-    },
-    "/CRS/SSN3/HOL0803.XB;1": {
-      "lba": 1553877,
-      "size": 1117004
-    },
-    "/CRS/SSN3/HOL0804.XB;1": {
-      "lba": 1554423,
-      "size": 1111108
-    },
-    "/CRS/SSN3/HOL0806.XB;1": {
-      "lba": 1554966,
-      "size": 1072892
-    },
-    "/CRS/SSN3/HOL0809.XB;1": {
-      "lba": 1555490,
-      "size": 1140644
-    },
-    "/CRS/SSN3/HOL0812.XB;1": {
-      "lba": 1556047,
-      "size": 1064420
-    },
-    "/CRS/SSN3/HOL0815.XB;1": {
-      "lba": 1556567,
-      "size": 1243008
-    },
-    "/CRS/SSN3/HOL0817.XB;1": {
-      "lba": 1557174,
-      "size": 948462
-    },
-    "/CRS/SSN3/HOL1217.XB;1": {
-      "lba": 1557638,
-      "size": 638200
+      "lba": 1501281,
+      "size": 826974
     },
     "/CRS/SSN3/HOL1301.XB;1": {
-      "lba": 1557950,
-      "size": 857420
+      "lba": 1501685,
+      "size": 857296
     },
     "/CRS/SSN3/HOL1309.XB;1": {
-      "lba": 1558369,
-      "size": 819198
-    },
-    "/MENU/M_CHAR/GUIDE/GC00.XB;1": {
-      "lba": 1558769,
-      "size": 391564
-    },
-    "/MENU/M_MENU1/MENU06.XB;1": {
-      "lba": 1558961,
-      "size": 143474
-    },
-    "/MENU/M_MENU1/MENU0C.XB;1": {
-      "lba": 1559032,
-      "size": 367354
-    },
-    "/MENU/M_MENU1/MENU11.XB;1": {
-      "lba": 1559212,
-      "size": 85840
-    },
-    "/MENU/M_MENU1/MENU14.XB;1": {
-      "lba": 1559254,
-      "size": 746012
-    },
-    "/MENU/M_MENU2/MENU02.XB;1": {
-      "lba": 1559619,
-      "size": 183569
-    },
-    "/MENU/M_MENU2/MENU22.XB;1": {
-      "lba": 1559709,
-      "size": 26882
+      "lba": 1502104,
+      "size": 819074
     },
     "/MENU/M_WALL/WALL104.XB;1": {
-      "lba": 1559723,
+      "lba": 1502504,
       "size": 39804
     },
     "/MENU/M_WALL/WALL157.XB;1": {
-      "lba": 1559743,
-      "size": 5716
-    },
-    "/MENU/M_WALL/WALL172.XB;1": {
-      "lba": 1559746,
-      "size": 164362
-    },
-    "/MENU/M_WALL/WALL174.XB;1": {
-      "lba": 1559827,
-      "size": 168148
+      "lba": 1502524,
+      "size": 5430
     },
     "/MENU/M_WALL/WALL175.XB;1": {
-      "lba": 1559910,
-      "size": 177622
-    },
-    "/MENU/M_WALL/WALL243.XB;1": {
-      "lba": 1559997,
-      "size": 144726
-    },
-    "/MENU/M_WALL/WALL251.XB;1": {
-      "lba": 1560068,
-      "size": 155200
-    },
-    "/MENU/M_WALL/WALL252.XB;1": {
-      "lba": 1560144,
-      "size": 134636
-    },
-    "/MENU/SCARD00.XB;1": {
-      "lba": 1560210,
-      "size": 41746
-    },
-    "/MENU/SCARD01.XB;1": {
-      "lba": 1560231,
-      "size": 42303
-    },
-    "/MENU/SCARD10.XB;1": {
-      "lba": 1560252,
-      "size": 42139
-    },
-    "/MENU/SCARD11.XB;1": {
-      "lba": 1560273,
-      "size": 42459
-    },
-    "/MENU/SCARD12.XB;1": {
-      "lba": 1560294,
-      "size": 42431
-    },
-    "/MENU/SCARD13.XB;1": {
-      "lba": 1560315,
-      "size": 42652
-    },
-    "/MENU/SCARD20.XB;1": {
-      "lba": 1560336,
-      "size": 64015
-    },
-    "/MENU/SCARD21.XB;1": {
-      "lba": 1560368,
-      "size": 50308
-    },
-    "/MENU/SC_RANK.XB;1": {
-      "lba": 1560393,
-      "size": 47616
+      "lba": 1502527,
+      "size": 169408
     },
     "/PC/PC03/PC030001.XB;1": {
-      "lba": 1560417,
+      "lba": 1502610,
       "size": 87566
     },
     "/PC/PC03/PC030004.XB;1": {
-      "lba": 1560460,
+      "lba": 1502653,
       "size": 119912
     },
     "/PC/PC03/PC030101.XB;1": {
-      "lba": 1560519,
+      "lba": 1502712,
       "size": 87566
     },
     "/PC/PC03/PC030104.XB;1": {
-      "lba": 1560562,
+      "lba": 1502755,
       "size": 119912
     },
     "/PC/PC03/PC030201.XB;1": {
-      "lba": 1560621,
+      "lba": 1502814,
       "size": 87566
     },
     "/PC/PC03/PC030204.XB;1": {
-      "lba": 1560664,
+      "lba": 1502857,
       "size": 119912
     },
     "/PC/PC03/PC030301.XB;1": {
-      "lba": 1560723,
+      "lba": 1502916,
       "size": 87566
     },
     "/PC/PC03/PC030304.XB;1": {
-      "lba": 1560766,
+      "lba": 1502959,
       "size": 119912
     },
     "/RESULT/PC03/COL00.XB;1": {
-      "lba": 1560825,
+      "lba": 1503018,
       "size": 582715
     },
     "/RESULT/PC03/COL01.XB;1": {
-      "lba": 1561110,
+      "lba": 1503303,
       "size": 582955
     },
     "/RESULT/PC03/COL02.XB;1": {
-      "lba": 1561395,
+      "lba": 1503588,
       "size": 585323
     },
     "/RESULT/PC03/COL03.XB;1": {
-      "lba": 1561681,
+      "lba": 1503874,
       "size": 588399
     },
     "/RESULT/PC03/COL04.XB;1": {
-      "lba": 1561969,
+      "lba": 1504162,
       "size": 592143
     },
     "/RESULT/PC03/COL05.XB;1": {
-      "lba": 1562259,
+      "lba": 1504452,
       "size": 589407
     },
     "/RESULT/PC03/COL06.XB;1": {
-      "lba": 1562547,
+      "lba": 1504740,
       "size": 599979
     },
     "/RESULT/PC03/COL07.XB;1": {
-      "lba": 1562840,
+      "lba": 1505033,
       "size": 592979
     }
   },
-  "changed_megabyte_blocks": 309,
-  "iso_bytes": 3201292288,
+  "changed_megabyte_blocks": 421,
+  "iso_bytes": 3082903552,
   "limitations": [
     "실행 화면 검증 및 전체 플레이 검증 필요",
     "동영상 자막과 모든 3D 배경 장식의 번역 여부는 별도 검증 필요"
