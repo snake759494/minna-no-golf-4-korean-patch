@@ -13,17 +13,17 @@ PS2 일본판 **모두의 골프 4 (SCPS-15059, v2.00)** 비공식 한글패치 
 | 원본 ISO 크기 | 3,070,394,368 바이트 |
 | 원본 MD5 | ba2ef5557bd2686585972f8461754804 |
 | 원본 SHA-256 | 1516b69c868557520e7c8bc2f73ee44cd868a56245a0dcae02fbea820c48b32f |
-| xdelta 크기 | 23,927,891 바이트 |
-| xdelta SHA-256 | 9ba7b6143aa199eb4de67abbbb98918bcae431235fa8b008532f03e6de126ec0 |
-| 결과 ISO 크기 | 3,082,903,552 바이트 |
-| 결과 SHA-256 | 1f9e82f31e3be755f2be147e8d498efc6abfe9e0b28abb618f5af266429d0a99 |
+| xdelta 크기 | 94,662,991 바이트 |
+| xdelta SHA-256 | 3d380949d3764bf7d7a04b1b5433d458aa5b1e22a51fd93c0df13fde455523fa |
+| 결과 ISO 크기 | 3,215,955,968 바이트 |
+| 결과 SHA-256 | 609eeb786fed7c3204be25044b4cbfa4b49f867d316bc31ff0ea02f537e25de0 |
 
 ## 패치 적용 방법
 
 해시가 일치하는 원본 일본판 v2.00 ISO에 첨부 xdelta를 적용하세요. xdeltaUI도 사용할 수 있습니다.
 
 ```text
-xdelta3 -d -s "Minna no Golf 4 (Japan) (v2.00).iso" "Minna_no_Golf_4_PS2_KO_v0.9.3-beta.xdelta" "Minna no Golf 4 (Japan) (v2.00) (Korean).iso"
+xdelta3 -d -s "Minna no Golf 4 (Japan) (v2.00).iso" "Minna_no_Golf_4_PS2_KO_v0.9.4-beta.xdelta" "Minna no Golf 4 (Japan) (v2.00) (Korean).iso"
 ```
 
 패치 적용 후 새 ISO로 부팅하세요. 이전 ISO에서 만든 세이브스테이트를 불러오면 수정 이전 데이터가 남을 수 있습니다.
